@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    // eslitn linting
+    "dbaeumer.vscode-eslint",
+    // prettier formatting
+    "esbenp.prettier-vscode",
+    // github actions plugin
+    // "cschleiden.vscode-github-actions",
+    // spelling errors
+    // "streetsidesoftware.code-spell-checker",
+    // "streetsidesoftware.code-spell-checker-czech",
+    // zod transform between validation and typescript type
+    "befish.zod"
+  ]
+}

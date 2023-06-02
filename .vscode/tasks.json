@@ -1,0 +1,103 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Dev",
+      "dependsOn": [
+        "Shared dev (tsc)",
+        "Core dev (tsc)",
+        "BE AWS express devserver"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "Core dev (tsc)",
+      "type": "shell",
+      // gets rid of infinite progress spinner
+      "isBackground": true,
+      // "group": "build",
+      // "suppressTaskName": true,
+      "command": "cd core && npm run dev",
+      // get rid of "Select for which kind of errors and warning to scan the task output"
+      "problemMatcher": [],
+      "presentation": {
+        "echo": false, // silence "Executing task ..."
+        "focus": true,
+        "panel": "dedicated",
+        "close": true
+      }
+    },
+    {
+      "label": "Shared dev (tsc)",
+      "type": "shell",
+      // gets rid of infinite progress spinner
+      "isBackground": true,
+      // "group": "build",
+      // "suppressTaskName": true,
+      "command": "cd shared && npm run dev",
+      // get rid of "Select for which kind of errors and warning to scan the task output"
+      "problemMatcher": [],
+      "presentation": {
+        "echo": false, // silence "Executing task ..."
+        "focus": true,
+        "panel": "dedicated",
+        "close": true
+      }
+    },
+    {
+      "label": "BE AWS express devserver lambdas",
+      "type": "shell",
+      // gets rid of infinite progress spinner
+      "isBackground": true,
+      // "group": "build",
+      // "suppressTaskName": true,
+      "command": "cd backend && npm run devserver",
+      // get rid of "Select for which kind of errors and warning to scan the task output"
+      "problemMatcher": [],
+      "presentation": {
+        "group": "BE",
+        "echo": false, // silence "Executing task ..."
+        "focus": true,
+        "panel": "dedicated",
+        "close": true
+      },
+      "dependsOn": ["BE AWS build watch express devserver"]
+    },
+    {
+      "label": "BE AWS build watch express devserver",
+      "type": "shell",
+      // gets rid of infinite progress spinner
+      "isBackground": true,
+      // "group": "build",
+      // "suppressTaskName": true,
+      "command": "cd aws && npm run devbuildwatch",
+      // get rid of "Select for which kind of errors and warning to scan the task output"
+      "problemMatcher": ["$tsc-watch"],
+      "presentation": {
+        "group": "BE",
+        "echo": false, // silence "Executing task ..."
+        "focus": true,
+        "panel": "dedicated",
+        "close": true
+      }
+    },
+    {
+      "label": "BE AWS: SAM start-api",
+      "type": "shell",
+      // gets rid of infinite progress spinner
+      "isBackground": true,
+      // "group": "build",
+      // "suppressTaskName": true,
+      "command": "cd aws && npm run samdev",
+      // get rid of "Select for which kind of errors and warning to scan the task output"
+      "problemMatcher": [],
+      "presentation": {
+        "group": "BE",
+        "echo": false, // silence "Executing task ..."
+        "focus": true,
+        "panel": "dedicated",
+        "close": true
+      }
+    }
+  ]
+}

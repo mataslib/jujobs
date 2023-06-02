@@ -1,0 +1,331 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    // debug config odtud https://jestjs.io/docs/troubleshooting
+    {
+      "name": "BE: Debug Jest Tests (relfile|testsDb|NO_GLOBAL_SETUP)",
+      "type": "node",
+      "request": "launch",
+      "cwd": "${workspaceFolder}/backend",
+      // "localRoot": "${workspaceFolder}/core",
+      // "remoteRoot": "/workspaces/frontend/core",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "jestEnvTests",
+        // "--runInBand",
+        // detect also allown sequence execution runInBand
+        // "--detectOpenHandles",
+        // exits even with having open handles after tests are done
+        // "--forceExit",
+        "${relativeFile}"
+      ],
+      "env": {
+        "NO_GLOBAL_SETUP": "1"
+      },
+
+      // "runtimeArgs": [
+      //   "--inspect-brk",
+      //   "${workspaceFolder}/backend/node_modules/.bin/jest",
+      //   // "--runInBand",
+      //   // detect also allown sequence execution runInBand
+      //   // "--detectOpenHandles",
+      //   // exits even with having open handles after tests are done
+      //   // "--forceExit",
+      //   "${relativeFile}"
+      // ],
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen"
+    },
+    {
+      "name": "BE: Debug Jest Tests (relfile|testsDb)",
+      "type": "node",
+      "request": "launch",
+      "cwd": "${workspaceFolder}/backend",
+      // "localRoot": "${workspaceFolder}/core",
+      // "remoteRoot": "/workspaces/frontend/core",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "jestEnvTests",
+        // "--runInBand",
+        // detect also allown sequence execution runInBand
+        // "--detectOpenHandles",
+        // exits even with having open handles after tests are done
+        // "--forceExit",
+        "${relativeFile}"
+      ],
+
+      // "runtimeArgs": [
+      //   "--inspect-brk",
+      //   "${workspaceFolder}/backend/node_modules/.bin/jest",
+      //   // "--runInBand",
+      //   // detect also allown sequence execution runInBand
+      //   // "--detectOpenHandles",
+      //   // exits even with having open handles after tests are done
+      //   // "--forceExit",
+      //   "${relativeFile}"
+      // ],
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen"
+    },
+    {
+      "name": "BE: Debug Jest Tests (relfile|prodDb)",
+      "type": "node",
+      "request": "launch",
+      "cwd": "${workspaceFolder}/backend",
+      // "localRoot": "${workspaceFolder}/core",
+      // "remoteRoot": "/workspaces/frontend/core",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "jestEnvProd", "${relativeFile}"],
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen"
+    },
+
+    {
+      "name": "BE AWS: express attach debugger",
+      "port": 9898,
+      "restart": true,
+      "request": "attach",
+      "skipFiles": ["<node_internals>/**"],
+      "type": "pwa-node",
+      "cwd": "${workspaceFolder}/backend",
+
+      // "processId": "${command:PickProcess}",
+      // hash must be changed on every synth
+      // "localRoot": "${workspaceFolder}/aws/cdk.out/asset.${input:assetHash}",
+      // "remoteRoot": "/var/task",
+      "sourceMaps": true,
+      "outFiles": [
+        "${workspaceFolder}/backend/**/*.(ts|js)",
+        "!**/node_modules/**"
+      ],
+      "presentation": {
+        "group": "BE"
+      }
+      // "sourceMapPathOverrides": {
+      // "*": "${workspaceFolder}/aws/cdktest/lib/lambdas/test.ts"
+      // }
+    },
+    {
+      "name": "BE AWS SAM start-api: Attach debugger",
+      "port": 9899,
+      "request": "attach",
+      "skipFiles": ["<node_internals>/**"],
+      "type": "pwa-node",
+      // hash must be changed on every synth
+      "localRoot": "${workspaceFolder}/aws/cdk.out/asset.${input:assetHash}",
+      "remoteRoot": "/var/task",
+      "sourceMaps": true,
+      "outFiles": [
+        "${workspaceFolder}/aws/**/*.(ts|js)",
+        "${workspaceFolder}/core/**/*.(ts|js)",
+        "${workspaceFolder}/shared/**/*.(ts|js)",
+        "!**/node_modules/**"
+      ],
+      "presentation": {
+        "group": "BE"
+      }
+      // "sourceMapPathOverrides": {
+      // "*": "${workspaceFolder}/aws/cdktest/lib/lambdas/test.ts"
+      // }
+    },
+    // Browser breakpointy obcas fungoval jeden, ale nekde nefungovaly,
+    // Debug Client vypada ze funguje, takze pouziju ten. ServerReadyAction je pofiderni
+    {
+      "name": "FE Next.js: debug full stack",
+      "cwd": "${workspaceFolder}/frontend",
+      "type": "node",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
+      // try to prevent collisions with client debug?
+      "autoAttachChildProcesses": false,
+      "request": "launch",
+      "console": "integratedTerminal",
+      "skipFiles": [
+        "<node_internals>/**",
+        "**/*.spec.(js|ts)",
+        "*.spec.(js|ts)"
+      ],
+      "outFiles": [
+        "${workspaceFolder}/frontend/**/*.(js|ts|jsx|tsx))",
+        "!${workspaceFolder}/**/node_modules/*",
+        "!${workspaceFolder}/**/*.spec.(js|ts)"
+      ],
+      "sourceMaps": true,
+      "localRoot": "${workspaceFolder}/frontend",
+      "remoteRoot": "/",
+      "serverReadyAction": {
+        "pattern": "started server on .+, url: (https?://.+)",
+        "uriFormat": "%s",
+        "action": "debugWithChrome",
+        "webRoot": "${workspaceFolder}/frontend"
+      },
+      "presentation": {
+        "group": "FE"
+      }
+    },
+    {
+      "name": "FE e2e: Debug playwright (relfile)",
+      "type": "node",
+      "request": "launch",
+      "cwd": "${workspaceFolder}/frontend",
+      "runtimeArgs": [
+        "${workspaceFolder}/frontend/node_modules/.bin/playwright",
+        "test",
+        "--headed",
+        // "--debug",
+        "${relativeFile}"
+      ],
+      "env": {
+        "DISPLAY": ":0",
+        "HOST_URL": "http://localhost:3000",
+        "DEVTOOLS": "1",
+        "PWDEBUG": "console"
+      },
+      // "sourceMaps": true,
+      // "outFiles": [
+      //   "${workspaceFolder}/frontend/src/e2e/**/*.spec.(js|ts)",
+      //   "!**/node_modules/**"
+      // ],
+      // Tohle jsem nasel nekde na githubu, ze kvuli tomu, ze playwright kompiluje jako ts-node,
+      // typescript on-the-fly. Neni zadny outdir. Vstupem programu jsou .ts soubory.
+      "outFiles": [],
+      "resolveSourceMapLocations": null,
+      // "autoAttachChildProcesses": false,
+      "console": "integratedTerminal",
+
+      // "port": 9002,
+      "presentation": {
+        "group": "FE"
+      }
+    },
+    {
+      "name": "FE Next.js: debug server side",
+      "cwd": "${workspaceFolder}/frontend",
+      "type": "node",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
+      "localRoot": "${workspaceFolder}/frontend",
+      "remoteRoot": "/",
+      "request": "launch",
+      "console": "integratedTerminal",
+      "skipFiles": [
+        "<node_internals>/**",
+        "**/*.spec.(js|ts)",
+        "*.spec.(js|ts)"
+      ],
+      "outFiles": [
+        "${workspaceFolder}/frontend/**/*.(js|ts|jsx|tsx))",
+        "!**/node_modules/**",
+        "!**/*.spec.(js|ts)"
+      ],
+      "sourceMaps": true,
+      "presentation": {
+        "group": "FE"
+      }
+    },
+    {
+      "name": "FE Next.js: debug client-side",
+      // "cwd": "${workspaceFolder}/frontend",
+      "webRoot": "${workspaceFolder}/frontend",
+      // "enableContentValidation": true,
+      // "disableNetworkCache": true,
+      // "pauseForSourceMap": true,
+      // "smartStep": false,
+      // "trace": true,
+      "pauseForSourceMap": true,
+      // "resolveSourceMapLocations": ["${workspaceFolder}/frontend/*"],
+      // "sourceMapPathOverrides": {
+      //   "webpack:///./src/*.js": "webpack:///./src/*.js",
+      //   "webpack:///./src/*.jsx": "webpack:///./src/*.jsx"
+      // },
+      "type": "chrome",
+      "request": "launch",
+      "url": "http://localhost:3000",
+      "presentation": {
+        "group": "FE"
+      },
+      "skipFiles": ["<node_internals>/**"],
+      "outFiles": [
+        "${workspaceFolder}/frontend/**/*.(js|ts|jsx|tsx))",
+        "!${workspaceFolder}/**/node_modules/**",
+        "!${workspaceFolder}/**/*.spec.(js|ts)"
+      ],
+      "sourceMaps": true
+    },
+    // {
+    //   "name": "Attach to Chrome",
+    //   "port": 9222,
+    //   "request": "attach",
+    //   "type": "chrome",
+    //   "webRoot": "${workspaceFolder}"
+    // },
+    {
+      "name": "DEPRECATED BE AWS: Skip debug",
+      "port": 9898,
+      "request": "attach",
+      "skipFiles": ["*", "<node_internals>/**"],
+      "continueOnAttach": true,
+      "type": "pwa-node",
+      "sourceMaps": false,
+      "pauseForSourceMap": false,
+      "internalConsoleOptions": "openOnSessionStart",
+      "presentation": {
+        "group": "DEPRECATED"
+      },
+      "trace": true
+    }
+
+    // {
+    //   "name": "Attach (working ts samapp)",
+    //   "port": 9898,
+    //   "request": "attach",
+    //   "skipFiles": ["<node_internals>/**"],
+    //   "sourceMaps": true,
+    //   "type": "pwa-node",
+    //   "localRoot": "${workspaceFolder}/aws/samapp/hello-world",
+    //   "remoteRoot": "/var/task"
+    // },
+    // {
+    //   "name": " (working ts samapp) hello-world:app.lambdaHandler (nodejs14.x)",
+    //   "type": "aws-sam",
+    //   "request": "direct-invoke",
+    //   "invokeTarget": {
+    //     "target": "code",
+    //     "projectRoot": "${workspaceFolder}/aws/samapp/hello-world",
+    //     "lambdaHandler": "dist/app.lambdaHandler"
+    //   },
+    //   "lambda": {
+    //     "runtime": "nodejs14.x",
+    //     "payload": {},
+    //     "environmentVariables": {}
+    //   }
+    // },
+  ],
+  // "compounds": [
+  //   {
+  //     "name": "Fe Nextjs: Debug fullstack",
+  //     "configurations": [
+  //       "FE Next.js: debug server side",
+  //       "FE Next.js: debug client-side"
+  //     ],
+  //     "presentation": {
+  //       "hidden": false,
+  //       "group": "FE",
+  //       "order": 1
+  //     }
+  //   }
+  // ],
+  "inputs": [
+    {
+      "id": "assetHash",
+      "type": "command",
+      "command": "memento.promptString",
+      "args": {
+        "description": "Asset hash (cdk.out/asset.[hash]), displayed in terminal when mounting. Can be found in template.json."
+      }
+      // "default": "reuse",
+    }
+  ]
+}

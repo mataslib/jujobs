@@ -1,0 +1,65 @@
+// https://www.nsp.cz/api/v1.2/lists/eQF
+{
+  "code": 200,
+  "data": [
+    {
+      "id": 1,
+      "alternativeTitle": "Kvalifika\u010dn\u00ed \u00farove\u0148 NSP 1",
+      "legacyId": 1,
+      "title": "Z\u00e1klady vzd\u011bl\u00e1n\u00ed",
+      "code": 1
+    },
+    {
+      "id": 2,
+      "alternativeTitle": "Kvalifika\u010dn\u00ed \u00farove\u0148 NSP 2",
+      "legacyId": 2,
+      "title": "Z\u00e1kladn\u00ed vzd\u011bl\u00e1n\u00ed; St\u0159edn\u00ed vzd\u011bl\u00e1n\u00ed bez v\u00fdu\u010dn\u00edho listu; St\u0159edn\u00ed vzd\u011bl\u00e1n\u00ed s v\u00fdu\u010dn\u00edm listem dvoulet\u00e9",
+      "code": 2
+    },
+    {
+      "id": 3,
+      "alternativeTitle": "Kvalifika\u010dn\u00ed \u00farove\u0148 NSP 3",
+      "legacyId": 3,
+      "title": "St\u0159edn\u00ed vzd\u011bl\u00e1n\u00ed s v\u00fdu\u010dn\u00edm listem t\u0159\u00edlet\u00e9",
+      "code": 3
+    },
+    {
+      "id": 4,
+      "alternativeTitle": "Kvalifika\u010dn\u00ed \u00farove\u0148 NSP 4",
+      "legacyId": 4,
+      "title": "St\u0159edn\u00ed vzd\u011bl\u00e1n\u00ed s maturitn\u00ed zkou\u0161kou; St\u0159edn\u00ed vzd\u011bl\u00e1n\u00ed s v\u00fdu\u010dn\u00edm listem i maturitn\u00ed zkou\u0161kou",
+      "code": 4
+    },
+    {
+      "id": 5,
+      "alternativeTitle": "Kvalifika\u010dn\u00ed \u00farove\u0148 NSP 5",
+      "legacyId": 5,
+      "title": "Pomaturitn\u00ed kr\u00e1tkodob\u00e9 vzd\u011bl\u00e1n\u00ed",
+      "code": 5
+    },
+    {
+      "id": 6,
+      "alternativeTitle": "Kvalifika\u010dn\u00ed \u00farove\u0148 NSP 6",
+      "legacyId": 6,
+      "title": "Bakal\u00e1\u0159sk\u00fd studijn\u00ed program; Vy\u0161\u0161\u00ed odborn\u00e9 vzd\u011bl\u00e1n\u00ed",
+      "code": 6
+    },
+    {
+      "id": 7,
+      "alternativeTitle": "Kvalifika\u010dn\u00ed \u00farove\u0148 NSP 7",
+      "legacyId": 7,
+      "title": "Magistersk\u00fd studijn\u00ed program",
+      "code": 7
+    },
+    {
+      "id": 8,
+      "alternativeTitle": "Kvalifika\u010dn\u00ed \u00farove\u0148 NSP 8",
+      "legacyId": 8,
+      "title": "Doktorsk\u00fd studijn\u00ed program",
+      "code": 8
+    }
+  ],
+  "count": 8,
+  "message": "OK",
+  "_links": []
+}

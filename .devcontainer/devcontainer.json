@@ -1,0 +1,48 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
+// https://github.com/microsoft/vscode-dev-containers/tree/v0.205.2/containers/typescript-node
+{
+  "name": "Jujobs",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "args": {}
+  },
+
+  // Add the IDs of extensions you want installed when the container is created.
+  "customizations": {
+    "vscode": {
+      "extensions": []
+    }
+  },
+  // Use 'forwardPorts' to make a list of ports inside the container available locally.
+  // "forwardPorts": [],
+  // Use 'postCreateCommand' to run commands after the container is created.
+  "postCreateCommand": "cd frontend && npm install && npx playwright install && npx playwright install-deps",
+  // Comment out connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
+  // if run container as root, debug nextjs fullstack get's stuck while starting server or running manually in js debug console
+  "remoteUser": "vscode",
+  "containerEnv": {
+    // [GUI-FROM-CONTAINER] share display for gui in container
+    "DISPLAY": ":0" // "${localEnv:DISPLAY}" - dynamic, not working
+  },
+  "remoteEnv": {
+    // creates env variable with host's path available inside container
+    // https://github.com/microsoft/vscode-dev-containers/blob/main/script-library/docs/docker.md#remote---containers
+    "LOCAL_WORKSPACE_FOLDER": "${localWorkspaceFolder}"
+  },
+  "mounts": [],
+  // bind X GUI server socket from host to be able to run palywright GUI
+  // [GUI-FROM-CONTAINER]
+  // "runArgs": ["-v", "/tmp/.X11-unix:/tmp/.X11-unix"],
+  // features scripts from:
+  // https://github.com/microsoft/vscode-dev-containers/tree/main/script-library
+  // creates non-root user, adds sudo capabilities to him, ...
+  "features": {
+    "ghcr.io/devcontainers/features/common-utils": {
+      "username": "vscode"
+    },
+    "ghcr.io/devcontainers/features/git": {
+      "ppa": false
+    },
+    "ghcr.io/devcontainers/features/github-cli": {}
+  }
+}

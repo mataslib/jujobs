@@ -1,0 +1,35 @@
+name: be.preview Deploy aws cdk
+on:
+  push:
+    branches:
+      - "master"
+jobs:
+  Deploy-aws-cdk:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v3
+        with:
+          cache: "npm"
+          cache-dependency-path: backend/package-lock.json
+
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v1-node16
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_DEFAULT_REGION }}
+
+      - name: Install aws cdk, esbuild (building lambdas instead of inside docker)
+        run: npm install -g aws-cdk esbuild
+
+      - name: Install backend deps
+        run: cd backend && npm ci
+
+      - name: Cdk bootstrap (resources needed for deployment)
+        run: cd backend/src/aws/deployment && STAGE_ENV=PREVIEW cdk bootstrap
+
+      - name: Cdk deploy
+        run: cd backend/src/aws/deployment && STAGE_ENV=PREVIEW cdk deploy --require-approval never --all

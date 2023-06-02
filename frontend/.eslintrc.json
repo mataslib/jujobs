@@ -1,0 +1,15 @@
+{
+  "extends": ["next/core-web-vitals"],
+  "rules": {
+    "no-restricted-imports": [
+      "error",
+      {
+        "patterns": ["@mui/*/*/*", "!@mui/material/test-utils/*"]
+      }
+    ],
+    // forces to escape characters like ' or " in case you would accidentally close tag sooner or smthing => pain
+    // escaped less readable -> turned off
+    // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/no-unescaped-entities.md
+    "react/no-unescaped-entities": "off"
+  }
+}

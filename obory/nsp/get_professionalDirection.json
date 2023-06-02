@@ -1,0 +1,476 @@
+// https://www.nsp.cz/api/v1.2/professionalDirection?limit=10&offset=0
+{
+  "code": 200,
+  "data": [
+    {
+      "id": 1,
+      "title": "Management",
+      "urlSlug": "management",
+      "level": 1,
+      "description": "Management vyu\u017e\u00edv\u00e1 poznatk\u016f z matematiky, statistiky, sociologie nebo psychologie, aby prost\u0159ednictv\u00edm procesu systematick\u00e9ho pl\u00e1nov\u00e1n\u00ed, organizov\u00e1n\u00ed, rozhodov\u00e1n\u00ed, veden\u00ed a kontroly koordinoval a optimalizoval ve\u0161ker\u00e9 zdroje finan\u010dn\u00ed, lidsk\u00e9 i dal\u0161\u00ed, za \u00fa\u010delem dosa\u017een\u00ed vyty\u010den\u00e9ho c\u00edle organizace nebo spole\u010dnosti.",
+      "note": "<p>Management vyu\u017e\u00edv\u00e1 poznatk\u016f z matematiky, statistiky, sociologie nebo psychologie, aby prost\u0159ednictv\u00edm procesu systematick\u00e9ho pl\u00e1nov\u00e1n\u00ed, organizov\u00e1n\u00ed, rozhodov\u00e1n\u00ed, veden\u00ed a kontroly koordinoval a optimalizoval ve\u0161ker\u00e9 zdroje finan\u010dn\u00ed, lidsk\u00e9 i dal\u0161\u00ed, za \u00fa\u010delem dosa\u017een\u00ed vyty\u010den\u00e9ho c\u00edle organizace nebo spole\u010dnosti.&nbsp;   </p>",
+      "parent": null,
+      "legacyId": 1,
+      "code": "1"
+    },
+    {
+      "id": 2,
+      "title": "Ekonomika, administrativa, personalistika",
+      "urlSlug": "ekonomika-administrativa-personalistika",
+      "level": 1,
+      "description": "Ekonomika zpracov\u00e1v\u00e1, analyzuje a vyhodnocuje finan\u010dn\u00ed hospoda\u0159en\u00ed ur\u010dit\u00e9ho subjektu jako nap\u0159\u00edklad st\u00e1tu, organizace nebo jednotlivce. Administrativa je souhrn organiza\u010dn\u00edch, provozn\u00edch kancel\u00e1\u0159sk\u00fdch a pomocn\u00fdch \u010dinnost\u00ed, kter\u00e9 maj\u00ed zabezpe\u010dit chod ur\u010dit\u00e9ho t\u00fdmu, odd\u011blen\u00ed, \u00fatvaru, organizace nebo spole\u010dnosti. Personalistika se zab\u00fdv\u00e1 souborem \u010dinnost\u00ed spojen\u00fdch s pl\u00e1nov\u00e1n\u00edm, z\u00edsk\u00e1v\u00e1n\u00edm, v\u00fdb\u011brem, \u0159\u00edzen\u00edm a rozvojem lidsk\u00fdch zdroj\u016f.",
+      "note": "<p>Ekonomika zpracov\u00e1v\u00e1, analyzuje a vyhodnocuje finan\u010dn\u00ed hospoda\u0159en\u00ed ur\u010dit\u00e9ho subjektu jako nap\u0159\u00edklad st\u00e1tu, organizace nebo jednotlivce. </p><p>Administrativa je souhrn organiza\u010dn\u00edch, provozn\u00edch kancel\u00e1\u0159sk\u00fdch a pomocn\u00fdch \u010dinnost\u00ed, kter\u00e9 maj\u00ed zabezpe\u010dit chod ur\u010dit\u00e9ho t\u00fdmu, odd\u011blen\u00ed, \u00fatvaru, organizace nebo spole\u010dnosti. </p><p>Personalistika se zab\u00fdv\u00e1 souborem \u010dinnost\u00ed spojen\u00fdch s pl\u00e1nov\u00e1n\u00edm, z\u00edsk\u00e1v\u00e1n\u00edm, v\u00fdb\u011brem, \u0159\u00edzen\u00edm a rozvojem lidsk\u00fdch zdroj\u016f.&nbsp;</p>",
+      "parent": null,
+      "legacyId": 2,
+      "code": "2"
+    },
+    {
+      "id": 3,
+      "title": "Pr\u00e1vo",
+      "urlSlug": "pravo",
+      "level": 1,
+      "description": "Pr\u00e1vo je soubor obecn\u011b z\u00e1vazn\u00fdch pravidel chov\u00e1n\u00ed, vytvo\u0159en\u00fd a vynutiteln\u00fd st\u00e1tem, kter\u00fd je zastoupen nez\u00e1visl\u00fdmi st\u00e1tn\u00edmi org\u00e1ny. V r\u00e1mci dodr\u017eov\u00e1n\u00ed stanoven\u00e9ho syst\u00e9mu pr\u00e1vn\u00edch norem se vykon\u00e1vaj\u00ed soudn\u00ed, exekutorsk\u00e9, not\u00e1\u0159sk\u00e9 a advok\u00e1tn\u00ed slu\u017eby.",
+      "note": "<p>Pr\u00e1vo je soubor obecn\u011b z\u00e1vazn\u00fdch pravidel chov\u00e1n\u00ed, vytvo\u0159en\u00fd a vynutiteln\u00fd st\u00e1tem, kter\u00fd je zastoupen nez\u00e1visl\u00fdmi st\u00e1tn\u00edmi org\u00e1ny. V r\u00e1mci dodr\u017eov\u00e1n\u00ed stanoven\u00e9ho syst\u00e9mu pr\u00e1vn\u00edch norem se vykon\u00e1vaj\u00ed soudn\u00ed, exekutorsk\u00e9, not\u00e1\u0159sk\u00e9 a advok\u00e1tn\u00ed slu\u017eby.   </p>",
+      "parent": null,
+      "legacyId": 4,
+      "code": "4"
+    },
+    {
+      "id": 4,
+      "title": "Informa\u010dn\u00ed technologie",
+      "urlSlug": "informacni-technologie",
+      "level": 1,
+      "description": "Informa\u010dn\u00ed technologie se pomoc\u00ed technick\u00e9ho a programov\u00e9ho vybaven\u00ed zab\u00fdvaj\u00ed projektov\u00e1n\u00edm, konstruov\u00e1n\u00edm, programov\u00e1n\u00edm, ochranou, uchov\u00e1v\u00e1n\u00edm a vyhled\u00e1v\u00e1n\u00edm, opravou a \u00fadr\u017ebou po\u010d\u00edta\u010dov\u00fdch, datab\u00e1zov\u00fdch a informa\u010dn\u00edch syst\u00e9m\u016f, webov\u00fdch str\u00e1nek a \u010d\u00edslicov\u00fdch za\u0159\u00edzen\u00ed a konfigurac\u00ed, spr\u00e1vou, ochranou, opravou a \u00fadr\u017ebou po\u010d\u00edta\u010dov\u00fdch s\u00edt\u00ed nebo jednotliv\u00fdch po\u010d\u00edta\u010d\u016f.",
+      "note": "<p>Informa\u010dn\u00ed technologie se pomoc\u00ed technick\u00e9ho a programov\u00e9ho vybaven\u00ed zab\u00fdvaj\u00ed projektov\u00e1n\u00edm, konstruov\u00e1n\u00edm, programov\u00e1n\u00edm, ochranou, uchov\u00e1v\u00e1n\u00edm a vyhled\u00e1v\u00e1n\u00edm, opravou a \u00fadr\u017ebou po\u010d\u00edta\u010dov\u00fdch, datab\u00e1zov\u00fdch a informa\u010dn\u00edch syst\u00e9m\u016f, webov\u00fdch str\u00e1nek a \u010d\u00edslicov\u00fdch za\u0159\u00edzen\u00ed a konfigurac\u00ed, spr\u00e1vou, ochranou, opravou a \u00fadr\u017ebou po\u010d\u00edta\u010dov\u00fdch s\u00edt\u00ed nebo jednotliv\u00fdch po\u010d\u00edta\u010d\u016f.   </p>",
+      "parent": null,
+      "legacyId": 5,
+      "code": "5"
+    },
+    {
+      "id": 5,
+      "title": "Ochrana majetku, osob a zdrav\u00ed",
+      "urlSlug": "ochrana-majetku-osob-a-zdravi",
+      "level": 1,
+      "description": "Ochrana majetku, osob a zdrav\u00ed se zab\u00fdv\u00e1 vyhodnocov\u00e1n\u00edm bezpe\u010dnostn\u00edch rizik a zaji\u0161\u0165ov\u00e1n\u00edm kybernetick\u00e9 bezpe\u010dnosti. Provozuje centr\u00e1ln\u00ed pulty ochrany a poskytuje slu\u017eby spojen\u00e9 s ostrahou, ochranou a p\u0159epravou nemovit\u00e9ho a movit\u00e9ho majetku, ochranou osob a pr\u00e1vn\u00edch z\u00e1jm\u016f, p\u0159i p\u0159eprav\u011b pen\u011bz a cennost\u00ed \u010di jin\u00e9ho majetku a se zaji\u0161\u0165ov\u00e1n\u00edm po\u0159\u00e1dku ve ve\u0159ejn\u00fdch, obchodn\u00edch a jin\u00fdch centrech a m\u00edstech kon\u00e1n\u00ed ve\u0159ejn\u00fdch shrom\u00e1\u017ed\u011bn\u00ed, slavnost\u00ed, sportovn\u00edch podnik\u016f nebo lidov\u00fdch z\u00e1bav.",
+      "note": "<p>Ochrana majetku, osob a zdrav\u00ed se zab\u00fdv\u00e1 vyhodnocov\u00e1n\u00edm bezpe\u010dnostn\u00edch rizik a zaji\u0161\u0165ov\u00e1n\u00edm kybernetick\u00e9 bezpe\u010dnosti. Provozuje centr\u00e1ln\u00ed pulty ochrany a poskytuje slu\u017eby spojen\u00e9 s ostrahou, ochranou a p\u0159epravou nemovit\u00e9ho a movit\u00e9ho majetku, ochranou osob a pr\u00e1vn\u00edch z\u00e1jm\u016f, p\u0159i p\u0159eprav\u011b pen\u011bz a cennost\u00ed \u010di jin\u00e9ho majetku a se zaji\u0161\u0165ov\u00e1n\u00edm po\u0159\u00e1dku ve ve\u0159ejn\u00fdch, obchodn\u00edch a jin\u00fdch centrech a m\u00edstech kon\u00e1n\u00ed ve\u0159ejn\u00fdch shrom\u00e1\u017ed\u011bn\u00ed, slavnost\u00ed, sportovn\u00edch podnik\u016f nebo lidov\u00fdch z\u00e1bav.&nbsp;   </p>",
+      "parent": null,
+      "legacyId": 6,
+      "code": "6"
+    },
+    {
+      "id": 6,
+      "title": "St\u00e1tn\u00ed spr\u00e1va",
+      "urlSlug": "statni-sprava",
+      "level": 1,
+      "description": "St\u00e1tn\u00ed spr\u00e1vu vykon\u00e1vaj\u00ed \u00fast\u0159edn\u00ed a \u00fazemn\u00ed org\u00e1ny st\u00e1tn\u00ed spr\u00e1vy, ostatn\u00ed st\u00e1tn\u00ed org\u00e1ny a jin\u00e9 k tomu opr\u00e1vn\u011bn\u00e9 subjekty, na kter\u00e9 st\u00e1t v\u00fdkon st\u00e1tn\u00ed spr\u00e1vy v ur\u010dit\u00e9m rozsahu p\u0159enesl. Vyd\u00e1vaj\u00ed spr\u00e1vn\u00ed rozhodnut\u00ed a upravuj\u00ed postaven\u00ed a chov\u00e1n\u00ed ob\u010dan\u016f, spole\u010dnost\u00ed a organizac\u00ed ve vztaz\u00edch, kter\u00e9 vznikaj\u00ed a uskute\u010d\u0148uj\u00ed se v souvislosti s realizac\u00ed v\u00fdkonn\u00e9 moci ve st\u00e1t\u011b a ve sf\u00e9\u0159e ve\u0159ejn\u00e9 spr\u00e1vy.",
+      "note": "<p>St\u00e1tn\u00ed spr\u00e1vu vykon\u00e1vaj\u00ed \u00fast\u0159edn\u00ed a \u00fazemn\u00ed org\u00e1ny st\u00e1tn\u00ed spr\u00e1vy, ostatn\u00ed st\u00e1tn\u00ed org\u00e1ny a jin\u00e9 k tomu opr\u00e1vn\u011bn\u00e9 subjekty, na kter\u00e9 st\u00e1t v\u00fdkon st\u00e1tn\u00ed spr\u00e1vy v ur\u010dit\u00e9m rozsahu p\u0159enesl. Vyd\u00e1vaj\u00ed spr\u00e1vn\u00ed rozhodnut\u00ed a upravuj\u00ed postaven\u00ed a chov\u00e1n\u00ed ob\u010dan\u016f, spole\u010dnost\u00ed a organizac\u00ed ve vztaz\u00edch, kter\u00e9 vznikaj\u00ed a uskute\u010d\u0148uj\u00ed se v souvislosti s realizac\u00ed v\u00fdkonn\u00e9 moci ve st\u00e1t\u011b a ve sf\u00e9\u0159e ve\u0159ejn\u00e9 spr\u00e1vy.   </p>",
+      "parent": null,
+      "legacyId": 7,
+      "code": "7"
+    },
+    {
+      "id": 7,
+      "title": "\u00dazemn\u011b samospr\u00e1vn\u00ed celky",
+      "urlSlug": "uzemne-samospravni-celky",
+      "level": 1,
+      "description": "\u00dazemn\u011b samospr\u00e1vn\u00ed celky jsou prostorov\u011b vymezen\u00e9 vy\u0161\u0161\u00ed (kraje) nebo ni\u017e\u0161\u00ed (obce) funk\u010dn\u00ed celky, kter\u00e9 vytv\u00e1\u0159ej\u00ed vlastn\u00ed org\u00e1ny a sami rozhoduj\u00ed o sv\u00fdch z\u00e1le\u017eitostech. V samostatn\u00e9 p\u016fsobnosti vy\u0159izuj\u00ed z\u00e1le\u017eitosti, kter\u00e9 nejsou na\u0159\u00edzeny st\u00e1tem a vykon\u00e1vaj\u00ed je pro blaho sv\u00fdch ob\u010dan\u016f a v p\u0159enesen\u00e9 p\u016fsobnosti vy\u0159izuj\u00ed z\u00e1le\u017eitosti, kter\u00e9 stanov\u00ed z\u00e1kon a vykon\u00e1vaj\u00ed je pro sv\u00e9 ob\u010dany v zastoupen\u00ed st\u00e1tu.",
+      "note": "<p>\u00dazemn\u011b samospr\u00e1vn\u00ed celky jsou prostorov\u011b vymezen\u00e9 vy\u0161\u0161\u00ed (kraje) nebo ni\u017e\u0161\u00ed (obce) funk\u010dn\u00ed celky, kter\u00e9 vytv\u00e1\u0159ej\u00ed vlastn\u00ed org\u00e1ny a sami rozhoduj\u00ed o sv\u00fdch z\u00e1le\u017eitostech. V samostatn\u00e9 p\u016fsobnosti vy\u0159izuj\u00ed z\u00e1le\u017eitosti, kter\u00e9 nejsou na\u0159\u00edzeny st\u00e1tem a vykon\u00e1vaj\u00ed je pro blaho sv\u00fdch ob\u010dan\u016f a v p\u0159enesen\u00e9 p\u016fsobnosti vy\u0159izuj\u00ed z\u00e1le\u017eitosti, kter\u00e9 stanov\u00ed z\u00e1kon a vykon\u00e1vaj\u00ed je pro sv\u00e9 ob\u010dany v zastoupen\u00ed st\u00e1tu.&nbsp;   </p>",
+      "parent": null,
+      "legacyId": 8,
+      "code": "8"
+    },
+    {
+      "id": 8,
+      "title": "V\u011bda, vzd\u011bl\u00e1v\u00e1n\u00ed, sport",
+      "urlSlug": "veda-vzdelavani-sport",
+      "level": 1,
+      "description": "V\u011bda slou\u017e\u00ed k z\u00edsk\u00e1v\u00e1n\u00ed v\u011bdeck\u00fdch znalost\u00ed a poznatk\u016f experimentov\u00e1n\u00edm, analytick\u00fdm zkoum\u00e1n\u00edm z\u00edskan\u00fdch zku\u0161enost\u00ed a teoretick\u00fdm rozborem vz\u00e1jemn\u00e9ho p\u016fsoben\u00ed z\u00e1konit\u00fdch souvislost\u00ed v oblasti technick\u00e9, l\u00e9ka\u0159sk\u00e9, biologick\u00e9, veterin\u00e1rn\u00ed, p\u0159\u00edrodn\u00ed, environment\u00e1ln\u00ed, spole\u010densk\u00e9 nebo humanitn\u00ed. Vzd\u011bl\u00e1v\u00e1n\u00ed umo\u017e\u0148uje prost\u0159ednictv\u00edm vzd\u011bl\u00e1vac\u00ed a v\u00fdchovn\u00e9 \u010dinnosti nebo odborn\u00e9ho v\u00fdcviku u\u010ditele, lektora, instruktora nebo technick\u00e9ho prost\u0159edku z\u00edskat, utv\u00e1\u0159et a prohlubovat soustavu v\u011bdomost\u00ed, dovednost\u00ed a znalost\u00ed a dos\u00e1hnout tak zv\u00fd\u0161en\u00e9ho stupn\u011b vzd\u011bl\u00e1n\u00ed, kvalifikace nebo odborn\u00e9 zp\u016fsobilosti. Sportem ozna\u010dujeme pohybovou (fyzickou) aktivitu provozovanou podle ur\u010dit\u00fdch pravidel a zvyklost\u00ed, vykon\u00e1vanou na profesion\u00e1ln\u00ed nebo z\u00e1jmov\u00e9 \u00farovni.",
+      "note": "<p>V\u011bda slou\u017e\u00ed k z\u00edsk\u00e1v\u00e1n\u00ed v\u011bdeck\u00fdch znalost\u00ed a poznatk\u016f experimentov\u00e1n\u00edm, analytick\u00fdm zkoum\u00e1n\u00edm z\u00edskan\u00fdch zku\u0161enost\u00ed a teoretick\u00fdm rozborem vz\u00e1jemn\u00e9ho p\u016fsoben\u00ed z\u00e1konit\u00fdch souvislost\u00ed v oblasti technick\u00e9, l\u00e9ka\u0159sk\u00e9, biologick\u00e9, veterin\u00e1rn\u00ed, p\u0159\u00edrodn\u00ed, environment\u00e1ln\u00ed, spole\u010densk\u00e9 nebo humanitn\u00ed.</p><p>Vzd\u011bl\u00e1v\u00e1n\u00ed umo\u017e\u0148uje prost\u0159ednictv\u00edm vzd\u011bl\u00e1vac\u00ed a v\u00fdchovn\u00e9 \u010dinnosti nebo odborn\u00e9ho v\u00fdcviku u\u010ditele, lektora, instruktora nebo technick\u00e9ho prost\u0159edku z\u00edskat, utv\u00e1\u0159et a prohlubovat soustavu v\u011bdomost\u00ed, dovednost\u00ed a znalost\u00ed a dos\u00e1hnout tak zv\u00fd\u0161en\u00e9ho stupn\u011b vzd\u011bl\u00e1n\u00ed, kvalifikace nebo odborn\u00e9 zp\u016fsobilosti.</p><p>Sportem ozna\u010dujeme pohybovou (fyzickou) aktivitu provozovanou podle ur\u010dit\u00fdch pravidel a zvyklost\u00ed, vykon\u00e1vanou na profesion\u00e1ln\u00ed nebo z\u00e1jmov\u00e9 \u00farovni.</p>",
+      "parent": null,
+      "legacyId": 11,
+      "code": "11"
+    },
+    {
+      "id": 9,
+      "title": "Zdravotnictv\u00ed a farmacie",
+      "urlSlug": "zdravotnictvi-a-farmacie",
+      "level": 1,
+      "description": "Zdravotnictv\u00ed poskytuje ambulantn\u00ed nebo hospitaliza\u010dn\u00ed zdravotnickou p\u00e9\u010di prost\u0159ednictv\u00edm s\u00edt\u011b zdravotnick\u00fdch za\u0159\u00edzen\u00ed a zdravotnick\u00e9 z\u00e1chrann\u00e9 slu\u017eby. Zdravotn\u00ed, o\u0161et\u0159uj\u00edc\u00ed a pomocn\u00fd person\u00e1l o\u0161et\u0159uje nemocn\u00e9 nebo zran\u011bn\u00e9, l\u00e9\u010d\u00ed symptomy a choroby, ochra\u0148uje du\u0161evn\u00ed a fyzick\u00e9 zdrav\u00ed a prov\u00e1d\u00ed aplikovan\u00fd v\u00fdzkum, v\u00fdvoj a prevenci onemocn\u011bn\u00ed. Farmacie zabezpe\u010duje v\u00fdzkum, v\u00fdrobu, distribuci, skladov\u00e1n\u00ed a v\u00fddej l\u00e9\u010div\u00fdch l\u00e1tek, sm\u011bs\u00ed l\u00e9\u010div\u00fdch l\u00e1tek nebo l\u00e9\u010div\u00fdch p\u0159\u00edpravk\u016f slou\u017e\u00edc\u00ed k p\u0159\u00edzniv\u00e9mu ovliv\u0148ov\u00e1n\u00ed zdrav\u00ed.",
+      "note": "<p>Zdravotnictv\u00ed poskytuje ambulantn\u00ed nebo hospitaliza\u010dn\u00ed zdravotnickou p\u00e9\u010di prost\u0159ednictv\u00edm s\u00edt\u011b zdravotnick\u00fdch za\u0159\u00edzen\u00ed a zdravotnick\u00e9 z\u00e1chrann\u00e9 slu\u017eby. Zdravotn\u00ed, o\u0161et\u0159uj\u00edc\u00ed a pomocn\u00fd person\u00e1l o\u0161et\u0159uje nemocn\u00e9 nebo zran\u011bn\u00e9, l\u00e9\u010d\u00ed symptomy a choroby, ochra\u0148uje du\u0161evn\u00ed a fyzick\u00e9 zdrav\u00ed a prov\u00e1d\u00ed aplikovan\u00fd v\u00fdzkum, v\u00fdvoj a prevenci onemocn\u011bn\u00ed. </p><p>Farmacie zabezpe\u010duje v\u00fdzkum, v\u00fdrobu, distribuci, skladov\u00e1n\u00ed a v\u00fddej l\u00e9\u010div\u00fdch l\u00e1tek, sm\u011bs\u00ed l\u00e9\u010div\u00fdch l\u00e1tek nebo l\u00e9\u010div\u00fdch p\u0159\u00edpravk\u016f slou\u017e\u00edc\u00ed k p\u0159\u00edzniv\u00e9mu ovliv\u0148ov\u00e1n\u00ed zdrav\u00ed.   </p>",
+      "parent": null,
+      "legacyId": 12,
+      "code": "12"
+    },
+    {
+      "id": 10,
+      "title": "Soci\u00e1ln\u00ed slu\u017eby",
+      "urlSlug": "socialni-sluzby",
+      "level": 1,
+      "description": "Soci\u00e1ln\u00ed slu\u017eby zahrnuj\u00ed prevenci a poradenstv\u00ed, p\u00e9\u010di a podporu osob v nep\u0159\u00edzniv\u00e9 soci\u00e1ln\u00ed a \u017eivotn\u00ed situaci za \u00fa\u010delem jejich za\u010dlen\u011bn\u00ed do spole\u010dnosti a ke zlep\u0161en\u00ed nebo zachov\u00e1n\u00ed jejich sob\u011bsta\u010dnosti.",
+      "note": "<p>Soci\u00e1ln\u00ed slu\u017eby zahrnuj\u00ed prevenci a poradenstv\u00ed, p\u00e9\u010di a podporu osob v nep\u0159\u00edzniv\u00e9 soci\u00e1ln\u00ed a \u017eivotn\u00ed situaci za \u00fa\u010delem jejich za\u010dlen\u011bn\u00ed do spole\u010dnosti a ke zlep\u0161en\u00ed nebo zachov\u00e1n\u00ed jejich sob\u011bsta\u010dnosti.   </p><p>Jednotky v soci\u00e1ln\u00ed oblasti ztr\u00e1c\u00ed s ohledem na aktualizovan\u00fd z\u00e1kon o soci\u00e1ln\u00edch slu\u017eb\u00e1ch z roku 2019 svoji platnost, proto byly p\u0159evedeny do odborn\u00e9ho sm\u011bru Neaktu\u00e1ln\u00ed jednotky pr\u00e1ce pro zachov\u00e1n\u00ed historie. </p>",
+      "parent": null,
+      "legacyId": 13,
+      "code": "13"
+    },
+    {
+      "id": 11,
+      "title": "Doprava a logistika",
+      "urlSlug": "doprava-a-logistika",
+      "level": 1,
+      "description": "Doprava a logistika p\u0159emis\u0165uje osoby a zbo\u017e\u00ed na po\u017eadovan\u00e9 m\u00edsto a v domluven\u00fd \u010das pomoc\u00ed dopravn\u00edch prost\u0159edk\u016f a dopravn\u00ed vybavenosti.",
+      "note": "<p>Doprava a logistika p\u0159emis\u0165uje osoby a zbo\u017e\u00ed na po\u017eadovan\u00e9 m\u00edsto a v domluven\u00fd \u010das pomoc\u00ed dopravn\u00edch prost\u0159edk\u016f a dopravn\u00ed vybavenosti.</p>",
+      "parent": null,
+      "legacyId": 14,
+      "code": "14"
+    },
+    {
+      "id": 12,
+      "title": "Po\u0161tovn\u00ed a doru\u010dovatelsk\u00e9 slu\u017eby",
+      "urlSlug": "postovni-a-dorucovatelske-sluzby",
+      "level": 1,
+      "description": "Po\u0161tovn\u00ed a doru\u010dovatelsk\u00e9 slu\u017eby zahrnuj\u00ed pod\u00e1n\u00ed, t\u0159\u00edd\u011bn\u00ed a p\u0159epravu po\u0161tovn\u00edch (listovn\u00edch a bal\u00edkov\u00fdch) z\u00e1silek a dod\u00e1n\u00ed pouk\u00e1zan\u00fdch pen\u011b\u017en\u00edch \u010d\u00e1stek prost\u0159ednictv\u00edm po\u0161tovn\u00ed s\u00edt\u011b p\u0159\u00edjemc\u016fm.",
+      "note": "<p>Po\u0161tovn\u00ed a doru\u010dovatelsk\u00e9 slu\u017eby zahrnuj\u00ed pod\u00e1n\u00ed, t\u0159\u00edd\u011bn\u00ed a p\u0159epravu po\u0161tovn\u00edch (listovn\u00edch a bal\u00edkov\u00fdch) z\u00e1silek a dod\u00e1n\u00ed pouk\u00e1zan\u00fdch pen\u011b\u017en\u00edch \u010d\u00e1stek prost\u0159ednictv\u00edm po\u0161tovn\u00ed s\u00edt\u011b p\u0159\u00edjemc\u016fm.   </p>",
+      "parent": null,
+      "legacyId": 15,
+      "code": "15"
+    },
+    {
+      "id": 13,
+      "title": "Lesn\u00ed hospod\u00e1\u0159stv\u00ed",
+      "urlSlug": "lesni-hospodarstvi",
+      "level": 1,
+      "description": "Lesn\u00ed hospod\u00e1\u0159stv\u00ed zaji\u0161\u0165uje obnovu a v\u00fdsadbu lesn\u00edho porostu a \u010dinnosti spojen\u00e9 s pl\u00e1novanou t\u011b\u017ebou lesn\u00edho porostu a nahodilou t\u011b\u017ebou po kalamitn\u00edch situac\u00edch.",
+      "note": "<p>Lesn\u00ed hospod\u00e1\u0159stv\u00ed zaji\u0161\u0165uje obnovu a v\u00fdsadbu lesn\u00edho porostu a \u010dinnosti spojen\u00e9 s pl\u00e1novanou t\u011b\u017ebou lesn\u00edho porostu a nahodilou t\u011b\u017ebou po kalamitn\u00edch situac\u00edch.   </p>",
+      "parent": null,
+      "legacyId": 16,
+      "code": "16"
+    },
+    {
+      "id": 14,
+      "title": "Obchod a marketing",
+      "urlSlug": "obchod-a-marketing",
+      "level": 1,
+      "description": "Obchod a marketing propaguje a sm\u011b\u0148uje zbo\u017e\u00ed nebo slu\u017eby za pen\u00edze \u010di jin\u00e1 platidla, p\u0159\u00edpadn\u011b za jin\u00e9 zbo\u017e\u00ed nebo slu\u017eby v obchodn\u00edch provozovn\u00e1ch nebo trz\u00edch.",
+      "note": "<p>Obchod a marketing propaguje a sm\u011b\u0148uje zbo\u017e\u00ed nebo slu\u017eby za pen\u00edze \u010di jin\u00e1 platidla, p\u0159\u00edpadn\u011b za jin\u00e9 zbo\u017e\u00ed nebo slu\u017eby v obchodn\u00edch provozovn\u00e1ch nebo trz\u00edch.   </p>",
+      "parent": null,
+      "legacyId": 17,
+      "code": "17"
+    },
+    {
+      "id": 15,
+      "title": "Pohostinstv\u00ed a cestovn\u00ed ruch",
+      "urlSlug": "pohostinstvi-a-cestovni-ruch",
+      "level": 1,
+      "description": "Pohostinstv\u00ed p\u0159ipravuje a prod\u00e1v\u00e1 pokrmy a n\u00e1poje ur\u010den\u00e9 k bezprost\u0159edn\u00ed spot\u0159eb\u011b v provozovn\u00e1ch. Cestovn\u00ed ruch zaji\u0161\u0165uje ve\u0161ker\u00e9 slu\u017eby spojen\u00e9 s organizov\u00e1n\u00edm, podporov\u00e1n\u00edm a poskytov\u00e1n\u00edm turistick\u00fdch, pozn\u00e1vac\u00edch, rekrea\u010dn\u00edch, l\u00e1ze\u0148sk\u00fdch, sportovn\u00edch a obchodn\u00edch pobyt\u016f. Wellness poskytuje slu\u017eby slou\u017e\u00edc\u00ed k du\u0161evn\u00ed, fyzick\u00e9, soci\u00e1ln\u00ed a ostatn\u00ed pohod\u011b \u010dlov\u011bka prost\u0159ednictv\u00edm souladu mysli, du\u0161e a t\u011bla.",
+      "note": "<p>Pohostinstv\u00ed p\u0159ipravuje a prod\u00e1v\u00e1 pokrmy a n\u00e1poje ur\u010den\u00e9 k bezprost\u0159edn\u00ed spot\u0159eb\u011b v provozovn\u00e1ch.</p><p>Cestovn\u00ed ruch zaji\u0161\u0165uje ve\u0161ker\u00e9 slu\u017eby spojen\u00e9 s organizov\u00e1n\u00edm, podporov\u00e1n\u00edm a poskytov\u00e1n\u00edm turistick\u00fdch, pozn\u00e1vac\u00edch, rekrea\u010dn\u00edch, l\u00e1ze\u0148sk\u00fdch, sportovn\u00edch a obchodn\u00edch pobyt\u016f.</p><p><br></p>",
+      "parent": null,
+      "legacyId": 18,
+      "code": "18"
+    },
+    {
+      "id": 16,
+      "title": "Bankovnictv\u00ed, finance a poji\u0161\u0165ovnictv\u00ed",
+      "urlSlug": "bankovnictvi-finance-a-pojistovnictvi",
+      "level": 1,
+      "description": "Bankovnictv\u00ed se zab\u00fdv\u00e1 problematikou financ\u00ed, spo\u0159en\u00ed, hypot\u00e9k nebo p\u016fj\u010dek. Finance zahrnuj\u00ed pohyb pen\u011bz a kapit\u00e1lu mezi r\u016fzn\u00fdmi ekonomick\u00fdmi subjekty a poji\u0161\u0165ovnictv\u00ed je specializovan\u00e1 oblast finan\u010dnictv\u00ed, kter\u00e1 pom\u00e1h\u00e1 zaji\u0161\u0165ovat ve\u0161ker\u00e9 hodnoty v\u010detn\u011b zdrav\u00ed a \u017eivota, kter\u00e9 jsou ohro\u017eov\u00e1ny \u0159adou rizik.",
+      "note": "<p>Bankovnictv\u00ed se zab\u00fdv\u00e1 problematikou financ\u00ed, spo\u0159en\u00ed, hypot\u00e9k nebo p\u016fj\u010dek. </p><p>Finance zahrnuj\u00ed pohyb pen\u011bz a kapit\u00e1lu mezi r\u016fzn\u00fdmi ekonomick\u00fdmi subjekty.</p><p>Poji\u0161\u0165ovnictv\u00ed je specializovan\u00e1 oblast finan\u010dnictv\u00ed, kter\u00e1 pom\u00e1h\u00e1 zaji\u0161\u0165ovat ve\u0161ker\u00e9 hodnoty v\u010detn\u011b zdrav\u00ed a \u017eivota, kter\u00e9 jsou ohro\u017eov\u00e1ny \u0159adou rizik.</p>",
+      "parent": null,
+      "legacyId": 19,
+      "code": "19"
+    },
+    {
+      "id": 17,
+      "title": "Slu\u017eby provozn\u00ed a osobn\u00ed",
+      "urlSlug": "sluzby-provozni-a-osobni",
+      "level": 1,
+      "description": "Slu\u017eby provozn\u00ed a osobn\u00ed uspokojuj\u00ed kolektivn\u00ed nebo individu\u00e1ln\u00ed pot\u0159eby z\u00e1stupc\u016f dom\u00e1cnost\u00ed a firem v r\u016fzn\u00fdch odv\u011btv\u00edch, oblastech a \u017eivotn\u00edch situac\u00edch.",
+      "note": "<p>Slu\u017eby provozn\u00ed a osobn\u00ed uspokojuj\u00ed kolektivn\u00ed nebo individu\u00e1ln\u00ed pot\u0159eby z\u00e1stupc\u016f dom\u00e1cnost\u00ed a firem v r\u016fzn\u00fdch odv\u011btv\u00edch, oblastech a \u017eivotn\u00edch situac\u00edch.   </p>",
+      "parent": null,
+      "legacyId": 20,
+      "code": "20"
+    },
+    {
+      "id": 18,
+      "title": "Um\u011bn\u00ed a kultura",
+      "urlSlug": "umeni-a-kultura",
+      "level": 1,
+      "description": "Um\u011bn\u00ed a kultura vytv\u00e1\u0159\u00ed, sd\u00edl\u00ed a prezentuje estetick\u00e9 p\u0159edm\u011bty, prost\u0159ed\u00ed nebo z\u00e1\u017eitky prost\u0159ednictv\u00edm vyu\u017e\u00edv\u00e1n\u00ed jedine\u010dn\u00fdch tv\u016fr\u010d\u00edch dovednost\u00ed nebo p\u0159edstavivosti um\u011blc\u016f.",
+      "note": "<p>Um\u011bn\u00ed a kultura vytv\u00e1\u0159\u00ed, sd\u00edl\u00ed a prezentuje estetick\u00e9 p\u0159edm\u011bty, prost\u0159ed\u00ed nebo z\u00e1\u017eitky prost\u0159ednictv\u00edm vyu\u017e\u00edv\u00e1n\u00ed jedine\u010dn\u00fdch tv\u016fr\u010d\u00edch dovednost\u00ed nebo p\u0159edstavivosti um\u011blc\u016f.   </p>",
+      "parent": null,
+      "legacyId": 21,
+      "code": "21"
+    },
+    {
+      "id": 19,
+      "title": "Vodn\u00ed hospod\u00e1\u0159stv\u00ed",
+      "urlSlug": "vodni-hospodarstvi",
+      "level": 1,
+      "description": "Vodn\u00ed hospod\u00e1\u0159stv\u00ed zahrnuje \u010dinnosti spojen\u00e9 s chemickou ochranou, vyu\u017eit\u00edm, rozvodem a u\u017e\u00edv\u00e1n\u00edm povrchov\u00fdch a podzemn\u00edch vod, ochranou a regulac\u00ed vodn\u00edch zdroj\u016f a ochranou p\u0159ed \u0161kodliv\u00fdmi \u00fa\u010dinky p\u016fsoben\u00ed vody.",
+      "note": "<p>Vodn\u00ed hospod\u00e1\u0159stv\u00ed zahrnuje \u010dinnosti spojen\u00e9 s chemickou ochranou, vyu\u017eit\u00edm, rozvodem a u\u017e\u00edv\u00e1n\u00edm povrchov\u00fdch a podzemn\u00edch vod, ochranou a regulac\u00ed vodn\u00edch zdroj\u016f a ochranou p\u0159ed \u0161kodliv\u00fdmi \u00fa\u010dinky p\u016fsoben\u00ed vody.   </p>",
+      "parent": null,
+      "legacyId": 22,
+      "code": "22"
+    },
+    {
+      "id": 20,
+      "title": "M\u00e9dia, publicistika a knihovnictv\u00ed",
+      "urlSlug": "media-publicistika-a-knihovnictvi",
+      "level": 1,
+      "description": "M\u00e9dia a publicistika se vyjad\u0159uj\u00ed k r\u016fzn\u00fdm, \u010dasto aktu\u00e1ln\u00edm, t\u00e9mat\u016fm, p\u0159edev\u0161\u00edm hospod\u00e1\u0159sk\u00fdm, politick\u00fdm, soci\u00e1ln\u00edm, \u010di kulturn\u00edm v prost\u0159edc\u00edch komunikace, tj. v novin\u00e1ch, v televizi, rozhlase, filmu \u010di na Internetu. Knihovnictv\u00ed shroma\u017e\u010fuje, zpracov\u00e1v\u00e1, uchov\u00e1v\u00e1 organizovan\u00e9 sb\u00edrky knih a dokument\u016f a poskytuje a zprost\u0159edkov\u00e1v\u00e1 knihovnick\u00e9 a informa\u010dn\u00ed slu\u017eby.",
+      "note": "<p>M\u00e9dia a publicistika se vyjad\u0159uj\u00ed k r\u016fzn\u00fdm, \u010dasto aktu\u00e1ln\u00edm, t\u00e9mat\u016fm, p\u0159edev\u0161\u00edm hospod\u00e1\u0159sk\u00fdm, politick\u00fdm, soci\u00e1ln\u00edm, \u010di kulturn\u00edm v prost\u0159edc\u00edch komunikace, tj. v novin\u00e1ch, v televizi, rozhlase, filmu \u010di na Internetu. </p><p>Knihovnictv\u00ed shroma\u017e\u010fuje, zpracov\u00e1v\u00e1, uchov\u00e1v\u00e1 organizovan\u00e9 sb\u00edrky knih a dokument\u016f a poskytuje a zprost\u0159edkov\u00e1v\u00e1 knihovnick\u00e9 a informa\u010dn\u00ed slu\u017eby.</p>",
+      "parent": null,
+      "legacyId": 23,
+      "code": "23"
+    },
+    {
+      "id": 21,
+      "title": "\u017divotn\u00ed prost\u0159ed\u00ed a nakl\u00e1d\u00e1n\u00ed s odpady",
+      "urlSlug": "zivotni-prostredi-a-nakladani-s-odpady",
+      "level": 1,
+      "description": "\u017divotn\u00ed prost\u0159ed\u00ed tvo\u0159\u00ed komplexn\u00ed a propojen\u00fd syst\u00e9m slo\u017een\u00fd z p\u0159\u00edrodn\u00edch, um\u011bl\u00fdch a soci\u00e1ln\u00edch slo\u017eek materi\u00e1ln\u00edho sv\u011bta vytv\u00e1\u0159ej\u00edc\u00ed p\u0159irozen\u00e9 podm\u00ednky existence a v\u00fdvoje organism\u016f v\u010detn\u011b \u010dlov\u011bka, kter\u00fd poskytuje okoln\u00edmu prost\u0159ed\u00ed ochranu nutnou pro uspokojiv\u00fd \u017eivot v\u0161ech organism\u016f na zemi, a to v\u010detn\u011b jeho samotn\u00e9ho. Nakl\u00e1d\u00e1n\u00ed s odpady zahrnuje odvoz, p\u0159epravu a odstra\u0148ov\u00e1n\u00ed odpad\u016f sp\u00e1len\u00edm nebo ulo\u017een\u00edm na skl\u00e1dku a nejr\u016fzn\u011bj\u0161\u00ed mo\u017en\u00e9 postupy \u00fapravy, kdy se z odpadu st\u00e1vaj\u00ed suroviny pro dal\u0161\u00ed v\u00fdrobu, jin\u00e9 v\u00fdrobky nebo je vyu\u017eit pro v\u00fdrobu energie.",
+      "note": "<p>\u017divotn\u00ed prost\u0159ed\u00ed tvo\u0159\u00ed komplexn\u00ed a propojen\u00fd syst\u00e9m slo\u017een\u00fd z p\u0159\u00edrodn\u00edch, um\u011bl\u00fdch a soci\u00e1ln\u00edch slo\u017eek materi\u00e1ln\u00edho sv\u011bta vytv\u00e1\u0159ej\u00edc\u00ed p\u0159irozen\u00e9 podm\u00ednky existence a v\u00fdvoje organism\u016f v\u010detn\u011b \u010dlov\u011bka, kter\u00fd poskytuje okoln\u00edmu prost\u0159ed\u00ed ochranu nutnou pro uspokojiv\u00fd \u017eivot v\u0161ech organism\u016f na zemi, a to v\u010detn\u011b jeho samotn\u00e9ho. </p><p>Nakl\u00e1d\u00e1n\u00ed s odpady zahrnuje odvoz, p\u0159epravu a odstra\u0148ov\u00e1n\u00ed odpad\u016f sp\u00e1len\u00edm nebo ulo\u017een\u00edm na skl\u00e1dku a nejr\u016fzn\u011bj\u0161\u00ed mo\u017en\u00e9 postupy \u00fapravy, kdy se z odpadu st\u00e1vaj\u00ed suroviny pro dal\u0161\u00ed v\u00fdrobu, jin\u00e9 v\u00fdrobky nebo je vyu\u017eit pro v\u00fdrobu energie.&nbsp;   </p>",
+      "parent": null,
+      "legacyId": 24,
+      "code": "24"
+    },
+    {
+      "id": 22,
+      "title": "D\u0159eva\u0159sk\u00e1 v\u00fdroba a n\u00e1bytk\u00e1\u0159stv\u00ed",
+      "urlSlug": "drevarska-vyroba-a-nabytkarstvi",
+      "level": 1,
+      "description": "D\u0159eva\u0159sk\u00e1 v\u00fdroba z vyt\u011b\u017een\u00fdch a opracovan\u00fdch kmen\u016f strom\u016f vyr\u00e1b\u00ed d\u0159ev\u011bn\u00e9 materi\u00e1ly a polotovary pro pou\u017eit\u00ed v dal\u0161\u00edch pr\u016fmyslov\u00fdch odv\u011btv\u00edch. N\u00e1bytk\u00e1\u0159stv\u00ed vyr\u00e1b\u00ed z p\u0159\u00edrodn\u00edch, ale i syntetick\u00fdch materi\u00e1l\u016f funk\u010dn\u00ed vybaven\u00ed obytn\u00fdch i neobytn\u00fdch dom\u016f a prostor\u016f.",
+      "note": "<p>D\u0159eva\u0159sk\u00e1 v\u00fdroba z vyt\u011b\u017een\u00fdch a opracovan\u00fdch kmen\u016f strom\u016f vyr\u00e1b\u00ed d\u0159ev\u011bn\u00e9 materi\u00e1ly a polotovary pro pou\u017eit\u00ed v dal\u0161\u00edch pr\u016fmyslov\u00fdch odv\u011btv\u00edch. </p><p>N\u00e1bytk\u00e1\u0159stv\u00ed vyr\u00e1b\u00ed z p\u0159\u00edrodn\u00edch, ale i syntetick\u00fdch materi\u00e1l\u016f funk\u010dn\u00ed vybaven\u00ed obytn\u00fdch i neobytn\u00fdch dom\u016f a prostor\u016f.</p>",
+      "parent": null,
+      "legacyId": 25,
+      "code": "25"
+    },
+    {
+      "id": 23,
+      "title": "Zem\u011bd\u011blstv\u00ed a veterin\u00e1rn\u00ed p\u00e9\u010de",
+      "urlSlug": "zemedelstvi-a-veterinarni-pece",
+      "level": 1,
+      "description": "Zem\u011bd\u011blstv\u00ed prost\u0159ednictv\u00edm rostlinn\u00e9 a \u017eivo\u010di\u0161n\u00e9 produkce potravin zaji\u0161\u0165uje lidskou v\u00fd\u017eivu. Veterin\u00e1rn\u00ed p\u00e9\u010de zahrnuje p\u00e9\u010di o zdrav\u00ed zv\u00ed\u0159at, o zdravotn\u00ed nez\u00e1vadnost \u017eivo\u010di\u0161n\u00fdch produkt\u016f a krmiv a ochranu zdrav\u00ed lid\u00ed p\u0159ed jeho po\u0161kozen\u00edm nebo ohro\u017een\u00edm \u017eivo\u010di\u0161n\u00fdmi produkty, ochranu \u00fazem\u00ed \u010cesk\u00e9 republiky p\u0159ed zavle\u010den\u00edm n\u00e1kaz zv\u00ed\u0159at a nemoc\u00ed p\u0159enosn\u00fdch ze zv\u00ed\u0159at na \u010dlov\u011bka.",
+      "note": "<p>Zem\u011bd\u011blstv\u00ed prost\u0159ednictv\u00edm rostlinn\u00e9 a \u017eivo\u010di\u0161n\u00e9 produkce potravin zaji\u0161\u0165uje lidskou v\u00fd\u017eivu. </p><p>Veterin\u00e1rn\u00ed p\u00e9\u010de zahrnuje p\u00e9\u010di o zdrav\u00ed zv\u00ed\u0159at, o zdravotn\u00ed nez\u00e1vadnost \u017eivo\u010di\u0161n\u00fdch produkt\u016f a krmiv a ochranu zdrav\u00ed lid\u00ed p\u0159ed jeho po\u0161kozen\u00edm nebo ohro\u017een\u00edm \u017eivo\u010di\u0161n\u00fdmi produkty, ochranu \u00fazem\u00ed \u010cesk\u00e9 republiky p\u0159ed zavle\u010den\u00edm n\u00e1kaz zv\u00ed\u0159at a nemoc\u00ed p\u0159enosn\u00fdch ze zv\u00ed\u0159at na \u010dlov\u011bka.   </p>",
+      "parent": null,
+      "legacyId": 26,
+      "code": "26"
+    },
+    {
+      "id": 24,
+      "title": "T\u011b\u017eba a \u00faprava nerostn\u00fdch surovin",
+      "urlSlug": "tezba-a-uprava-nerostnych-surovin",
+      "level": 1,
+      "description": "T\u011b\u017eba a \u00faprava nerostn\u00fdch surovin zahrnuje povrchovou nebo hlubinnou t\u011b\u017ebu a transport fosiln\u00edch paliv (ropa, zemn\u00ed plyn), kovov\u00fdch rud (\u017eelezn\u00e1 ruda, bauxit), nerudn\u00edch nerostn\u00fdch surovin (uran) a stavebn\u00edch surovin (k\u00e1men, p\u00edsek, \u0161t\u011brk, v\u00e1penec).",
+      "note": "<p>T\u011b\u017eba a \u00faprava nerostn\u00fdch surovin zahrnuje povrchovou nebo hlubinnou t\u011b\u017ebu a transport fosiln\u00edch paliv (ropa, zemn\u00ed plyn), kovov\u00fdch rud (\u017eelezn\u00e1 ruda, bauxit), nerudn\u00edch nerostn\u00fdch surovin (uran) a stavebn\u00edch surovin (k\u00e1men, p\u00edsek, \u0161t\u011brk, v\u00e1penec).&nbsp;   </p>",
+      "parent": null,
+      "legacyId": 27,
+      "code": "27"
+    },
+    {
+      "id": 25,
+      "title": "Potravin\u00e1\u0159stv\u00ed a krmiv\u00e1\u0159stv\u00ed",
+      "urlSlug": "potravinarstvi-a-krmivarstvi",
+      "level": 1,
+      "description": "Potravin\u00e1\u0159stv\u00ed a krmiv\u00e1\u0159stv\u00ed jsou v\u00fdrobn\u00ed obory zab\u00fdvaj\u00edc\u00ed se zpracov\u00e1n\u00edm \u017eivo\u010di\u0161n\u00fdch anebo rostlinn\u00fdch surovin za \u00fa\u010delem v\u00fdroby n\u00e1poj\u016f a polotovar\u016f k dal\u0161\u00edmu zpracov\u00e1n\u00ed a v\u00fdrobou potravin pro obyvatelstvo a krmiv pro zv\u00ed\u0159ata.",
+      "note": "<p>Potravin\u00e1\u0159stv\u00ed a krmiv\u00e1\u0159stv\u00ed jsou v\u00fdrobn\u00ed obory zab\u00fdvaj\u00edc\u00ed se zpracov\u00e1n\u00edm \u017eivo\u010di\u0161n\u00fdch anebo rostlinn\u00fdch surovin za \u00fa\u010delem v\u00fdroby n\u00e1poj\u016f a polotovar\u016f k dal\u0161\u00edmu zpracov\u00e1n\u00ed a v\u00fdrobou potravin pro obyvatelstvo a krmiv pro zv\u00ed\u0159ata.&nbsp;   </p>",
+      "parent": null,
+      "legacyId": 28,
+      "code": "28"
+    },
+    {
+      "id": 26,
+      "title": "Textiln\u00ed a od\u011bvn\u00ed v\u00fdroba",
+      "urlSlug": "textilni-a-odevni-vyroba",
+      "level": 1,
+      "description": "Textiln\u00ed v\u00fdroba se zab\u00fdv\u00e1 zpracov\u00e1n\u00edm a vyu\u017eit\u00edm rostlinn\u00fdch a syntetick\u00fdch textiln\u00edch vl\u00e1ken, ze kter\u00fdch vyr\u00e1b\u00ed materi\u00e1ly pro v\u00fdrobu od\u011bv\u016f, bytov\u00e9 textilie (koberce, z\u00e1clony), pr\u016fmyslov\u00e9 textilie, ochrann\u00e9 pom\u016fcky (rukavice, \u010depice), lana a dal\u0161\u00ed v\u00fdrobky.\nOd\u011bvn\u00ed v\u00fdroba v souladu s m\u00f3dn\u00edmi trendy navrhuje a vyr\u00e1b\u00ed oble\u010den\u00ed a dopl\u0148ky.",
+      "note": "<p>Textiln\u00ed v\u00fdroba se zab\u00fdv\u00e1 zpracov\u00e1n\u00edm a vyu\u017eit\u00edm rostlinn\u00fdch a syntetick\u00fdch textiln\u00edch vl\u00e1ken, ze kter\u00fdch vyr\u00e1b\u00ed materi\u00e1ly pro v\u00fdrobu od\u011bv\u016f, bytov\u00e9 textilie (koberce, z\u00e1clony), pr\u016fmyslov\u00e9 textilie, ochrann\u00e9 pom\u016fcky (rukavice, \u010depice), lana a dal\u0161\u00ed v\u00fdrobky. </p><p>Od\u011bvn\u00ed v\u00fdroba v souladu s m\u00f3dn\u00edmi trendy navrhuje a vyr\u00e1b\u00ed oble\u010den\u00ed a dopl\u0148ky.&nbsp;</p>",
+      "parent": null,
+      "legacyId": 29,
+      "code": "29"
+    },
+    {
+      "id": 27,
+      "title": "Ko\u017eed\u011bln\u00e1 a obuvnick\u00e1 v\u00fdroba",
+      "urlSlug": "kozedelna-a-obuvnicka-vyroba",
+      "level": 1,
+      "description": "Ko\u017eed\u011bln\u00e1 v\u00fdroba upravuje a zpracov\u00e1v\u00e1 k\u016f\u017ei na usn\u011b a na ko\u017ee\u0161iny, z nich\u017e vyr\u00e1b\u00ed us\u0148ov\u00e9 (ko\u017een\u00e9) a ko\u017ee\u0161inov\u00e9 zbo\u017e\u00ed v galantern\u00ed, bra\u0161n\u00e1\u0159sk\u00e9, sedl\u00e1\u0159sk\u00e9, rukavi\u010dk\u00e1\u0159sk\u00e9 a od\u011bvn\u00ed v\u00fdrob\u011b. Obuvnick\u00e1 v\u00fdroba vyr\u00e1b\u00ed svr\u0161ky obuvi z p\u0159\u00edrodn\u00edch (us\u0148ov\u00fdch), syntetick\u00fdch a textiln\u00edch materi\u00e1l\u016f a obuv dokon\u010duje nalepen\u00edm nebo vst\u0159ikov\u00e1n\u00edm pode\u0161v\u00ed z p\u0159\u00edrodn\u00edch nebo syntetick\u00fdch polymer\u016f.",
+      "note": "<p>Ko\u017eed\u011bln\u00e1 v\u00fdroba upravuje a zpracov\u00e1v\u00e1 k\u016f\u017ei na usn\u011b a na ko\u017ee\u0161iny, z nich\u017e vyr\u00e1b\u00ed us\u0148ov\u00e9 (ko\u017een\u00e9) a ko\u017ee\u0161inov\u00e9 zbo\u017e\u00ed v galantern\u00ed, bra\u0161n\u00e1\u0159sk\u00e9, sedl\u00e1\u0159sk\u00e9, rukavi\u010dk\u00e1\u0159sk\u00e9 a od\u011bvn\u00ed v\u00fdrob\u011b.</p><p>Obuvnick\u00e1 v\u00fdroba vyr\u00e1b\u00ed svr\u0161ky obuvi z p\u0159\u00edrodn\u00edch (us\u0148ov\u00fdch), syntetick\u00fdch a textiln\u00edch materi\u00e1l\u016f a obuv dokon\u010duje nalepen\u00edm nebo vst\u0159ikov\u00e1n\u00edm pode\u0161v\u00ed z p\u0159\u00edrodn\u00edch nebo syntetick\u00fdch polymer\u016f.</p>",
+      "parent": null,
+      "legacyId": 30,
+      "code": "30"
+    },
+    {
+      "id": 28,
+      "title": "Um\u011bleck\u00e1 \u0159emesla",
+      "urlSlug": "umelecka-remesla",
+      "level": 1,
+      "description": "Um\u011bleck\u00e1 \u0159emesla za pou\u017eit\u00ed ru\u010dn\u00ed pr\u00e1ce, tv\u016fr\u010d\u00edch dovednost\u00ed a jedine\u010dn\u00fdch v\u00fdrobn\u00edch postup\u016f zhotovuj\u00ed z p\u0159\u00edrodn\u00edch \u010di jin\u00fdch materi\u00e1l\u016f ojedin\u011bl\u00e9 um\u011blecko-\u0159emesln\u00e9 v\u00fdrobky p\u0159ev\u00e1\u017en\u011b u\u017eitn\u00e9 povahy.",
+      "note": "<p>Um\u011bleck\u00e1 \u0159emesla za pou\u017eit\u00ed ru\u010dn\u00ed pr\u00e1ce, tv\u016fr\u010d\u00edch dovednost\u00ed a jedine\u010dn\u00fdch v\u00fdrobn\u00edch postup\u016f zhotovuj\u00ed z p\u0159\u00edrodn\u00edch \u010di jin\u00fdch materi\u00e1l\u016f ojedin\u011bl\u00e9 um\u011blecko-\u0159emesln\u00e9 v\u00fdrobky p\u0159ev\u00e1\u017en\u011b u\u017eitn\u00e9 povahy.   </p>",
+      "parent": null,
+      "legacyId": 31,
+      "code": "31"
+    },
+    {
+      "id": 29,
+      "title": "V\u00fdroba a zpracov\u00e1n\u00ed pap\u00edru",
+      "urlSlug": "vyroba-a-zpracovani-papiru",
+      "level": 1,
+      "description": "V\u00fdroba a zpracov\u00e1n\u00ed pap\u00edru pou\u017e\u00edv\u00e1 vl\u00e1kna ze d\u0159eva nebo jin\u00e9ho rostlinn\u00e9ho materi\u00e1lu pro v\u00fdrobu celul\u00f3zy a pap\u00edroviny a dal\u0161\u00edch spot\u0159ebn\u00edch polotovar\u016f a v\u00fdrobk\u016f z pap\u00edru.",
+      "note": "<p>V\u00fdroba a zpracov\u00e1n\u00ed pap\u00edru pou\u017e\u00edv\u00e1 vl\u00e1kna ze d\u0159eva nebo jin\u00e9ho rostlinn\u00e9ho materi\u00e1lu pro v\u00fdrobu celul\u00f3zy a pap\u00edroviny a dal\u0161\u00edch spot\u0159ebn\u00edch polotovar\u016f a v\u00fdrobk\u016f z pap\u00edru.   </p>",
+      "parent": null,
+      "legacyId": 32,
+      "code": "32"
+    },
+    {
+      "id": 30,
+      "title": "Polygrafie",
+      "urlSlug": "polygrafie",
+      "level": 1,
+      "description": "Polygrafie zahrnuje zpracov\u00e1n\u00ed textov\u00fdch a obrazov\u00fdch p\u0159edloh, v\u00fdrobu tiskov\u00fdch forem, produk\u010dn\u00ed tisk na tiskov\u00fdch stroj\u00edch a dokon\u010dovac\u00ed zpracov\u00e1n\u00ed tiskovin prost\u0159ednictv\u00edm klasick\u00fdch tiskov\u00fdch technik nebo n\u011bkter\u00e9 z forem digit\u00e1ln\u00edho tisku.",
+      "note": "<p>Polygrafie zahrnuje zpracov\u00e1n\u00ed textov\u00fdch a obrazov\u00fdch p\u0159edloh, v\u00fdrobu tiskov\u00fdch forem, produk\u010dn\u00ed tisk na tiskov\u00fdch stroj\u00edch a dokon\u010dovac\u00ed zpracov\u00e1n\u00ed tiskovin prost\u0159ednictv\u00edm klasick\u00fdch tiskov\u00fdch technik nebo n\u011bkter\u00e9 z forem digit\u00e1ln\u00edho tisku.   </p>",
+      "parent": null,
+      "legacyId": 33,
+      "code": "33"
+    },
+    {
+      "id": 31,
+      "title": "Chemie",
+      "urlSlug": "chemie",
+      "level": 1,
+      "description": "Chemie zahrnuje krom\u011b v\u00fdroby z\u00e1kladn\u00edch organick\u00fdch i anorganick\u00fdch chemik\u00e1li\u00ed i produkci hnojiv, prost\u0159edk\u016f na ochranu rostlin, um\u011bl\u00fdch textiln\u00edch vl\u00e1ken, plast\u016f, pry\u017ee, \u010distic\u00edch a myc\u00edch prost\u0159edk\u016f a n\u00e1t\u011brov\u00fdch hmot.",
+      "note": "<p>Chemie zahrnuje krom\u011b v\u00fdroby z\u00e1kladn\u00edch organick\u00fdch i anorganick\u00fdch chemik\u00e1li\u00ed i produkci hnojiv, prost\u0159edk\u016f na ochranu rostlin, um\u011bl\u00fdch textiln\u00edch vl\u00e1ken, plast\u016f, pry\u017ee, \u010distic\u00edch a myc\u00edch prost\u0159edk\u016f a n\u00e1t\u011brov\u00fdch hmot.&nbsp;   </p>",
+      "parent": null,
+      "legacyId": 34,
+      "code": "34"
+    },
+    {
+      "id": 32,
+      "title": "Skl\u00e1\u0159sk\u00e1, keramick\u00e1 v\u00fdroba",
+      "urlSlug": "sklarska-keramicka-vyroba",
+      "level": 1,
+      "description": "Skl\u00e1\u0159sk\u00e1 a keramick\u00e1 v\u00fdroba zpracov\u00e1vaj\u00ed silik\u00e1ty z p\u0159\u00edrodn\u00edch zdroj\u016f do nejr\u016fzn\u011bj\u0161\u00ed u\u017eitn\u00e9 a dekorativn\u00ed podoby sklen\u011bn\u00fdch v\u00fdrobk\u016f, sklen\u011bn\u00fdch obal\u016f a keramiky. Odv\u011btv\u00ed navazuj\u00ed na oblast T\u011b\u017eby a \u00fapravy nerostn\u00fdch surovin.",
+      "note": "<p>Skl\u00e1\u0159sk\u00e1 a keramick\u00e1 v\u00fdroba zpracov\u00e1vaj\u00ed silik\u00e1ty z p\u0159\u00edrodn\u00edch zdroj\u016f do nejr\u016fzn\u011bj\u0161\u00ed u\u017eitn\u00e9 a dekorativn\u00ed podoby sklen\u011bn\u00fdch v\u00fdrobk\u016f, sklen\u011bn\u00fdch obal\u016f a keramiky. Odv\u011btv\u00ed navazuj\u00ed na oblast T\u011b\u017eby a \u00fapravy nerostn\u00fdch surovin.</p>",
+      "parent": null,
+      "legacyId": 35,
+      "code": "35"
+    },
+    {
+      "id": 33,
+      "title": "Hutnictv\u00ed a sl\u00e9v\u00e1renstv\u00ed",
+      "urlSlug": "hutnictvi-a-slevarenstvi",
+      "level": 1,
+      "description": "Hutnictv\u00ed a sl\u00e9v\u00e1renstv\u00ed zpracov\u00e1v\u00e1 \u017eelezn\u00e9 \u010di ne\u017eelezn\u00e9 kovov\u00e9 rudy tepeln\u00fdmi procesy a vyr\u00e1b\u00ed polotovary pro dal\u0161\u00ed v\u00fdrobu (ingoty, profily, dr\u00e1ty, odlitky, plechy, v\u00fdkovky). Na tento sm\u011br navazuje oblast Stroj\u00edrenstv\u00ed a automobilov\u00e9ho pr\u016fmyslu a stavebnictv\u00ed.",
+      "note": "<p>Hutnictv\u00ed a sl\u00e9v\u00e1renstv\u00ed zpracov\u00e1v\u00e1 \u017eelezn\u00e9 \u010di ne\u017eelezn\u00e9 kovov\u00e9 rudy tepeln\u00fdmi procesy a vyr\u00e1b\u00ed polotovary pro dal\u0161\u00ed v\u00fdrobu (ingoty, profily, dr\u00e1ty, odlitky, plechy, v\u00fdkovky). Na tento sm\u011br navazuje oblast Stroj\u00edrenstv\u00ed a automobilov\u00e9ho pr\u016fmyslu a stavebnictv\u00ed.&nbsp;   </p>",
+      "parent": null,
+      "legacyId": 36,
+      "code": "36"
+    },
+    {
+      "id": 34,
+      "title": "Stroj\u00edrenstv\u00ed a automobilov\u00fd pr\u016fmysl",
+      "urlSlug": "strojirenstvi-a-automobilovy-prumysl",
+      "level": 1,
+      "description": "Stroj\u00edrenstv\u00ed se zab\u00fdv\u00e1 n\u00e1vrhem, v\u00fdrobou a \u00fadr\u017ebou stroj\u016f a za\u0159\u00edzen\u00ed pro dal\u0161\u00ed pr\u016fmyslov\u00e1 odv\u011btv\u00ed. \nAutomobilov\u00fd pr\u016fmysl vyr\u00e1b\u00ed, montuje a servisuje v\u00fdrobn\u00ed a dopravn\u00ed prost\u0159edky a za\u0159\u00edzen\u00ed pro v\u011bt\u0161inu dal\u0161\u00edch v\u00fdrobn\u00edch sm\u011br\u016f i pro p\u0159\u00edm\u00e9 spot\u0159ebitele, za pou\u017eit\u00ed kovov\u00fdch sou\u010d\u00e1st\u00ed i dal\u0161\u00edch druh\u016f materi\u00e1l\u016f.",
+      "note": "<p>Stroj\u00edrenstv\u00ed se zab\u00fdv\u00e1 n\u00e1vrhem, v\u00fdrobou a \u00fadr\u017ebou stroj\u016f a za\u0159\u00edzen\u00ed pro dal\u0161\u00ed pr\u016fmyslov\u00e1 odv\u011btv\u00ed. Automobilov\u00fd pr\u016fmysl vyr\u00e1b\u00ed, montuje a servisuje v\u00fdrobn\u00ed a dopravn\u00ed prost\u0159edky a za\u0159\u00edzen\u00ed pro v\u011bt\u0161inu dal\u0161\u00edch v\u00fdrobn\u00edch sm\u011br\u016f i pro p\u0159\u00edm\u00e9 spot\u0159ebitele, za pou\u017eit\u00ed kovov\u00fdch sou\u010d\u00e1st\u00ed i dal\u0161\u00edch druh\u016f materi\u00e1l\u016f.&nbsp;   </p>",
+      "parent": null,
+      "legacyId": 37,
+      "code": "37"
+    },
+    {
+      "id": 35,
+      "title": "Elektrotechnika",
+      "urlSlug": "elektrotechnika",
+      "level": 1,
+      "description": "Elektrotechnika zahrnuje v\u00fdrobu, mont\u00e1\u017e, opravy a kontrolu v\u0161ech slaboproud\u00fdch i silnoproud\u00fdch elektrotechnick\u00fdch v\u00fdrobk\u016f a za\u0159\u00edzen\u00ed ve smyslu zapojen\u00ed a o\u017eiven\u00ed elektrick\u00fdm proudem.",
+      "note": "<p>Elektrotechnika zahrnuje v\u00fdrobu, mont\u00e1\u017e, opravy a kontrolu v\u0161ech slaboproud\u00fdch i silnoproud\u00fdch elektrotechnick\u00fdch v\u00fdrobk\u016f a za\u0159\u00edzen\u00ed ve smyslu zapojen\u00ed a o\u017eiven\u00ed elektrick\u00fdm proudem.   </p>",
+      "parent": null,
+      "legacyId": 38,
+      "code": "38"
+    },
+    {
+      "id": 36,
+      "title": "Elektronick\u00e9 komunikace",
+      "urlSlug": "elektronicke-komunikace",
+      "level": 1,
+      "description": "Elektrotechnick\u00e9 komunikace zaji\u0161\u0165uj\u00ed komunika\u010dn\u00ed a datov\u00fd p\u0159enos pomoc\u00ed soustavy klasick\u00fdch i bezdr\u00e1tov\u00fdch s\u00edt\u00ed a za\u0159\u00edzen\u00ed.",
+      "note": "<p>Elektrotechnick\u00e9 komunikace zaji\u0161\u0165uj\u00ed komunika\u010dn\u00ed a datov\u00fd p\u0159enos pomoc\u00ed soustavy klasick\u00fdch i bezdr\u00e1tov\u00fdch s\u00edt\u00ed a za\u0159\u00edzen\u00ed.   </p>",
+      "parent": null,
+      "legacyId": 39,
+      "code": "39"
+    },
+    {
+      "id": 37,
+      "title": "Energetika",
+      "urlSlug": "energetika",
+      "level": 1,
+      "description": "Energetika zahrnuje v\u00fdstavbu a v\u00fdrobu energetick\u00fdch za\u0159\u00edzen\u00ed a vyu\u017e\u00edv\u00e1 uhl\u00ed, ropu, zemn\u00ed plyn, jadern\u00e9 palivo, d\u0159evo, vodu, v\u00edtr a geoterm\u00e1ln\u00ed energie pro p\u0159em\u011bnu, v\u00fdrobu a distribuci elektrick\u00e9 energie, tepla a plynu prost\u0159ednictv\u00edm p\u0159enosov\u00e9 soustavy.",
+      "note": "<p>Energetika zahrnuje v\u00fdstavbu a v\u00fdrobu energetick\u00fdch za\u0159\u00edzen\u00ed a vyu\u017e\u00edv\u00e1 uhl\u00ed, ropu, zemn\u00ed plyn, jadern\u00e9 palivo, d\u0159evo, vodu, v\u00edtr a geoterm\u00e1ln\u00ed energie pro p\u0159em\u011bnu, v\u00fdrobu a distribuci elektrick\u00e9 energie, tepla a plynu prost\u0159ednictv\u00edm p\u0159enosov\u00e9 soustavy.   </p>",
+      "parent": null,
+      "legacyId": 40,
+      "code": "40"
+    },
+    {
+      "id": 38,
+      "title": "Stavebnictv\u00ed a zem\u011bm\u011b\u0159ictv\u00ed",
+      "urlSlug": "stavebnictvi-a-zememerictvi",
+      "level": 1,
+      "description": "Stavebnictv\u00ed a zem\u011bm\u011b\u0159ictv\u00ed zaji\u0161\u0165uje cel\u00fd proces souvisej\u00edc\u00ed s navrhov\u00e1n\u00edm, p\u0159\u00edpravou a realizac\u00ed staveb, od architektonick\u00e9ho n\u00e1vrhu, v\u00fdb\u011bru vhodn\u00fdch stavebn\u00edch materi\u00e1l\u016f a zpracov\u00e1n\u00ed rozpo\u010dtu, rozboru stavebn\u00edho podlo\u017e\u00ed a vym\u011b\u0159en\u00ed stavby a\u017e po samotnou v\u00fdstavbu, \u00fadr\u017ebu, modernizaci, rekonstrukci a demolici nejr\u016fzn\u011bj\u0161\u00edch typ\u016f pozemn\u00edch, dopravn\u00edch, vodohospod\u00e1\u0159sk\u00fdch i ekologick\u00fdch staveb.",
+      "note": "<p>Stavebnictv\u00ed a zem\u011bm\u011b\u0159ictv\u00ed zaji\u0161\u0165uje cel\u00fd proces souvisej\u00edc\u00ed s navrhov\u00e1n\u00edm, p\u0159\u00edpravou a realizac\u00ed staveb, od architektonick\u00e9ho n\u00e1vrhu, v\u00fdb\u011bru vhodn\u00fdch stavebn\u00edch materi\u00e1l\u016f a zpracov\u00e1n\u00ed rozpo\u010dtu, rozboru stavebn\u00edho podlo\u017e\u00ed a vym\u011b\u0159en\u00ed stavby a\u017e po samotnou v\u00fdstavbu, \u00fadr\u017ebu, modernizaci, rekonstrukci a demolici nejr\u016fzn\u011bj\u0161\u00edch typ\u016f pozemn\u00edch, dopravn\u00edch, vodohospod\u00e1\u0159sk\u00fdch i ekologick\u00fdch staveb.   </p>",
+      "parent": null,
+      "legacyId": 41,
+      "code": "41"
+    },
+    {
+      "id": 39,
+      "title": "Povol\u00e1n\u00ed bez oboru a mezioborov\u00e1",
+      "urlSlug": "povolani-bez-oboru-a-mezioborova",
+      "level": 1,
+      "description": "Povol\u00e1n\u00ed bez oboru a mezioborov\u00e1 obsahuje v\u0161echna povol\u00e1n\u00ed, kter\u00e1 nelze jednozna\u010dn\u011b za\u0159adit do st\u00e1vaj\u00edc\u00edch odborn\u00fdch sm\u011br\u016f nebo se jedn\u00e1 o povol\u00e1n\u00ed meziodv\u011btvov\u00e9, kter\u00e9 lze naopak za\u0159adit do dvou a v\u00edce odborn\u00fdch sm\u011br\u016f z\u00e1rove\u0148.",
+      "note": "<p>Povol\u00e1n\u00ed bez oboru a mezioborov\u00e1 obsahuje v\u0161echna povol\u00e1n\u00ed, kter\u00e1 nelze jednozna\u010dn\u011b za\u0159adit do st\u00e1vaj\u00edc\u00edch odborn\u00fdch sm\u011br\u016f nebo se jedn\u00e1 o povol\u00e1n\u00ed meziodv\u011btvov\u00e9, kter\u00e9 lze naopak za\u0159adit do dvou a v\u00edce odborn\u00fdch sm\u011br\u016f z\u00e1rove\u0148.   </p>",
+      "parent": null,
+      "legacyId": 42,
+      "code": "42"
+    },
+    {
+      "id": 40,
+      "title": "Ozbrojen\u00e9 s\u00edly a bezpe\u010dnostn\u00ed sbory",
+      "urlSlug": "ozbrojene-sily-a-bezpecnostni-sbory",
+      "level": 1,
+      "description": null,
+      "note": "Ozbrojen\u00e9 s\u00edly a bezpe\u010dnostn\u00ed sbory pln\u00ed obecn\u00e9 a speci\u00e1ln\u00ed \u00fakoly bezpe\u010dnostn\u00edho charakteru, kter\u00e9 vypl\u00fdvaj\u00ed z bezpe\u010dnostn\u00ed politiky st\u00e1tu, jako je obrana suverenity a \u00fazemn\u00ed celistvosti \u010cR a jej\u00ed br\u00e1n\u011bn\u00ed p\u0159ed vn\u011bj\u0161\u00edm napaden\u00edm, ochrana celospole\u010densk\u00fdch z\u00e1jm\u016f a hodnot, ochrana pr\u00e1vnick\u00fdch a fyzick\u00fdch osob, majetku, \u017eivot\u016f, zdrav\u00ed, lidsk\u00e9 d\u016fstojnosti, pln\u011bn\u00ed a organizov\u00e1n\u00ed \u00fakol\u016f po\u017e\u00e1rn\u00ed ochrany, civiln\u00edho nouzov\u00e9ho pl\u00e1nov\u00e1n\u00ed, integrovan\u00e9ho z\u00e1chrann\u00e9ho syst\u00e9mu, krizov\u00e9ho \u0159\u00edzen\u00ed a dal\u0161\u00edch.",
+      "parent": null,
+      "legacyId": 49,
+      "code": "3"
+    },
+    {
+      "id": 41,
+      "title": "Povol\u00e1n\u00ed vy\u0159azen\u00e1 z kategorick\u00e9ho t\u0159\u00edd\u011bn\u00ed pro svoji neaktu\u00e1lnost",
+      "urlSlug": "povolani-vyrazena-z-kategorickeho-trideni-pro-svoji-neaktualnost",
+      "level": 1,
+      "description": null,
+      "note": "Aktu\u00e1lnost popisu t\u011bchto povol\u00e1n\u00ed nen\u00ed mo\u017en\u00e9 v sou\u010dasn\u00e9 dob\u011b garantovat z d\u016fvod\u016f zm\u011bny podm\u00ednek jejich v\u00fdkonu od doby, kdy byly vytvo\u0159eny, nebo zm\u011bny legislativy, kter\u00e1 se jich t\u00fdk\u00e1. Jednotky budou postupn\u011b aktualizov\u00e1ny.",
+      "parent": null,
+      "legacyId": 50,
+      "code": "43"
+    }
+  ],
+  "count": 41,
+  "message": "OK",
+  "_links": {
+    "prev": {
+      "href": "https://www.nsp.cz/api/v1.2/professionalDirection?limit=100&offset=0"
+    },
+    "first": {
+      "href": "https://www.nsp.cz/api/v1.2/professionalDirection?limit=100&offset=0"
+    },
+    "last": {
+      "href": "https://www.nsp.cz/api/v1.2/professionalDirection?limit=41&offset=0"
+    },
+    "next": {
+      "href": "https://www.nsp.cz/api/v1.2/professionalDirection?limit=41&offset=0"
+    },
+    "self": {
+      "href": "https://www.nsp.cz/api/v1.2/professionalDirection?limit=100&offset=0"
+    }
+  }
+}

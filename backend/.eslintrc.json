@@ -1,0 +1,6 @@
+{
+  "extends": ["./node_modules/gts/", "prettier"],
+  "rules": {
+    "node/no-unpublished-import": ["off"]
+  }
+}

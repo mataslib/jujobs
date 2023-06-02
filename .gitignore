@@ -1,0 +1,9 @@
+**/node_modules
+.lh
+**/.aws-sam
+**/cdk.out
+**/coverage
+.secrets.env
+# typescript 
+# **/*.tsbuildinfo
+**/*.tsbuildinfo

@@ -1,0 +1,41 @@
+Administrativa
+Auto - moto
+Bankovnictví a finanční služby
+Cestovní ruch a ubytování
+Doprava, logistika a zásobování
+Ekonomika a podnikové finance
+Elektrotechnika a energetika
+Farmacie
+Gastronomie a pohostinství
+Chemický průmysl
+Informační technologie
+Kultura, umění a tvůrčí práce
+Kvalita a kontrola jakosti
+Řemeslné a manuální práce
+Marketing
+Média, reklama a PR
+Nákup
+Ostraha a bezpečnost
+Personalistika a HR
+Pojišťovnictví
+Potravinářství
+Právní služby
+Prodej a obchod
+Služby
+Státní a veřejná správa
+Stavebnictví a reality
+Strojírenství
+Technika a vývoj
+Telekomunikace
+Věda a výzkum
+Výroba a průmysl
+Vrcholový management
+Vydavatelství, tisk a polygrafie
+Vzdělávání a školství
+Zákaznický servis
+Zdravotnictví a sociální péče
+Zemědělství, lesnictví a ekologie
+
+IS/IT: Konzultace, analýzy a projektové řízení
+IS/IT: Správa systémů a HW
+IS/IT: Vývoj aplikací a systémů

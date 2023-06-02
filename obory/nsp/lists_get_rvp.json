@@ -1,0 +1,2657 @@
+// https://www.nsp.cz/api/v1.2/lists/rVP
+{
+  "code": 200,
+  "data": [
+    {
+      "id": 1,
+      "position": 1,
+      "legacyId": "1",
+      "title": "Ekologie a \u017eivotn\u00ed prost\u0159ed\u00ed",
+      "code": "16-01-M/01"
+    },
+    {
+      "id": 2,
+      "position": 2,
+      "legacyId": "2",
+      "title": "Ekologie a ochrana \u017eivotn\u00edho prost\u0159ed\u00ed",
+      "code": "16-xx-M/xx"
+    },
+    {
+      "id": 3,
+      "position": 3,
+      "legacyId": "3",
+      "title": "Informa\u010dn\u00ed technologie",
+      "code": "18-20-M/01"
+    },
+    {
+      "id": 4,
+      "position": 4,
+      "legacyId": "4",
+      "title": "Informatick\u00e9 obory",
+      "code": "18-xx-M/xx"
+    },
+    {
+      "id": 5,
+      "position": 5,
+      "legacyId": "5",
+      "title": "Hutn\u00edk",
+      "code": "21-52-H/01"
+    },
+    {
+      "id": 6,
+      "position": 6,
+      "legacyId": "6",
+      "title": "Model\u00e1\u0159",
+      "code": "21-53-H/01"
+    },
+    {
+      "id": 7,
+      "position": 7,
+      "legacyId": "7",
+      "title": "Sl\u00e9va\u010d",
+      "code": "21-55-H/01"
+    },
+    {
+      "id": 8,
+      "position": 8,
+      "legacyId": "8",
+      "title": "Hornictv\u00ed a hornick\u00e1 geologie, hutnictv\u00ed a sl\u00e9v\u00e1renstv\u00ed",
+      "code": "21-xx-H/xx"
+    },
+    {
+      "id": 9,
+      "position": 9,
+      "legacyId": "9",
+      "title": "Stroj\u00edrenstv\u00ed",
+      "code": "23-41-M/01"
+    },
+    {
+      "id": 10,
+      "position": 10,
+      "legacyId": "10",
+      "title": "Dopravn\u00ed prost\u0159edky",
+      "code": "23-45-M/01"
+    },
+    {
+      "id": 11,
+      "position": 11,
+      "legacyId": "11",
+      "title": "Strojn\u00ed mechanik",
+      "code": "23-51-H/01"
+    },
+    {
+      "id": 12,
+      "position": 12,
+      "legacyId": "12",
+      "title": "N\u00e1stroja\u0159",
+      "code": "23-52-H/01"
+    },
+    {
+      "id": 13,
+      "position": 13,
+      "legacyId": "13",
+      "title": "Klemp\u00ed\u0159",
+      "code": "23-55-H/01"
+    },
+    {
+      "id": 14,
+      "position": 14,
+      "legacyId": "14",
+      "title": "Karos\u00e1\u0159",
+      "code": "23-55-H/02"
+    },
+    {
+      "id": 15,
+      "position": 15,
+      "legacyId": "15",
+      "title": "Obr\u00e1b\u011b\u010d kov\u016f",
+      "code": "23-56-H/01"
+    },
+    {
+      "id": 16,
+      "position": 16,
+      "legacyId": "16",
+      "title": "Kov\u00e1\u0159",
+      "code": "23-57-H/01"
+    },
+    {
+      "id": 17,
+      "position": 17,
+      "legacyId": "17",
+      "title": "Autolak\u00fdrn\u00edk",
+      "code": "23-61-H/01"
+    },
+    {
+      "id": 18,
+      "position": 18,
+      "legacyId": "18",
+      "title": "Jemn\u00fd mechanik",
+      "code": "23-62-H/01"
+    },
+    {
+      "id": 19,
+      "position": 19,
+      "legacyId": "19",
+      "title": "Strojn\u00edk",
+      "code": "23-65-H/01"
+    },
+    {
+      "id": 20,
+      "position": 20,
+      "legacyId": "20",
+      "title": "Mechanik oprav\u00e1\u0159 motorov\u00fdch vozidel",
+      "code": "23-68-H/01"
+    },
+    {
+      "id": 21,
+      "position": 21,
+      "legacyId": "21",
+      "title": "Stroj\u00edrenstv\u00ed a stroj\u00edrensk\u00e1 v\u00fdroba",
+      "code": "23-xx-H/xx"
+    },
+    {
+      "id": 22,
+      "position": 22,
+      "legacyId": "22",
+      "title": "Stroj\u00edrenstv\u00ed a stroj\u00edrensk\u00e1 v\u00fdroba",
+      "code": "23-xx-M/xx"
+    },
+    {
+      "id": 23,
+      "position": 23,
+      "legacyId": "23",
+      "title": "Mechanik elektrotechnik",
+      "code": "26-41-L/01"
+    },
+    {
+      "id": 24,
+      "position": 24,
+      "legacyId": "24",
+      "title": "Elektrotechnika",
+      "code": "26-41-M/01"
+    },
+    {
+      "id": 25,
+      "position": 25,
+      "legacyId": "25",
+      "title": "Telekomunikace",
+      "code": "26-45-M/01"
+    },
+    {
+      "id": 26,
+      "position": 26,
+      "legacyId": "26",
+      "title": "Elektrik\u00e1\u0159",
+      "code": "26-51-H/01"
+    },
+    {
+      "id": 27,
+      "position": 27,
+      "legacyId": "27",
+      "title": "Elektrik\u00e1\u0159 -silnoproud",
+      "code": "26-51-H/02"
+    },
+    {
+      "id": 28,
+      "position": 28,
+      "legacyId": "28",
+      "title": "Elektromechanik pro za\u0159\u00edzen\u00ed a p\u0159\u00edstroje",
+      "code": "26-52-H/01"
+    },
+    {
+      "id": 29,
+      "position": 29,
+      "legacyId": "29",
+      "title": "Autoelektrik\u00e1\u0159",
+      "code": "26-57-H/01"
+    },
+    {
+      "id": 30,
+      "position": 30,
+      "legacyId": "30",
+      "title": "Spojov\u00fd mechanik",
+      "code": "26-59-H/01"
+    },
+    {
+      "id": 31,
+      "position": 31,
+      "legacyId": "31",
+      "title": "Elektrotechnika, telekomunika\u010dn\u00ed a v\u00fdpo\u010detn\u00ed technika",
+      "code": "26-xx-H/xx"
+    },
+    {
+      "id": 32,
+      "position": 32,
+      "legacyId": "32",
+      "title": "Elektrotechnika, telekomunika\u010dn\u00ed a v\u00fdpo\u010detn\u00ed technika",
+      "code": "26-xx-L/xx"
+    },
+    {
+      "id": 33,
+      "position": 33,
+      "legacyId": "33",
+      "title": "Elektrotechnika, telekomunika\u010dn\u00ed a v\u00fdpo\u010detn\u00ed technika",
+      "code": "26-xx-M/xx"
+    },
+    {
+      "id": 34,
+      "position": 34,
+      "legacyId": "34",
+      "title": "Aplikovan\u00e1 chemie",
+      "code": "28-44-M/01"
+    },
+    {
+      "id": 35,
+      "position": 35,
+      "legacyId": "35",
+      "title": "Chemik",
+      "code": "28-52-H/01"
+    },
+    {
+      "id": 36,
+      "position": 36,
+      "legacyId": "36",
+      "title": "Pap\u00edrensk\u00e1 v\u00fdroba",
+      "code": "28-56-E/01"
+    },
+    {
+      "id": 37,
+      "position": 37,
+      "legacyId": "37",
+      "title": "V\u00fdrobce a dekorat\u00e9r keramiky",
+      "code": "28-57-H/01"
+    },
+    {
+      "id": 38,
+      "position": 38,
+      "legacyId": "38",
+      "title": "Skl\u00e1\u0159 - v\u00fdrobce a zu\u0161lech\u0165ovatel skla",
+      "code": "28-58-H/01"
+    },
+    {
+      "id": 39,
+      "position": 39,
+      "legacyId": "39",
+      "title": "V\u00fdrobce bi\u017euterie a dekorativn\u00edch p\u0159edm\u011bt\u016f",
+      "code": "28-63-H/01"
+    },
+    {
+      "id": 40,
+      "position": 40,
+      "legacyId": "40",
+      "title": "Technick\u00e1 chemie a chemie silik\u00e1t\u016f",
+      "code": "28-xx-E/xx"
+    },
+    {
+      "id": 41,
+      "position": 41,
+      "legacyId": "41",
+      "title": "Technick\u00e1 chemie a chemie silik\u00e1t\u016f",
+      "code": "28-xx-H/xx"
+    },
+    {
+      "id": 42,
+      "position": 42,
+      "legacyId": "42",
+      "title": "Technick\u00e1 chemie a chemie silik\u00e1t\u016f",
+      "code": "28-xx-M/xx"
+    },
+    {
+      "id": 43,
+      "position": 43,
+      "legacyId": "43",
+      "title": "Technologie potravin",
+      "code": "29-41-M/01"
+    },
+    {
+      "id": 44,
+      "position": 44,
+      "legacyId": "44",
+      "title": "Anal\u00fdza potravin",
+      "code": "29-42-M/01"
+    },
+    {
+      "id": 45,
+      "position": 45,
+      "legacyId": "45",
+      "title": "Potravin\u00e1\u0159sk\u00e1 v\u00fdroba",
+      "code": "29-51-E/01"
+    },
+    {
+      "id": 46,
+      "position": 46,
+      "legacyId": "46",
+      "title": "Potravin\u00e1\u0159sk\u00e9 pr\u00e1ce",
+      "code": "29-51-E/02"
+    },
+    {
+      "id": 47,
+      "position": 47,
+      "legacyId": "47",
+      "title": "V\u00fdrobce potravin",
+      "code": "29-51-H/01"
+    },
+    {
+      "id": 48,
+      "position": 48,
+      "legacyId": "48",
+      "title": "Peka\u0159",
+      "code": "29-53-H/01"
+    },
+    {
+      "id": 49,
+      "position": 49,
+      "legacyId": "49",
+      "title": "Cukr\u00e1\u0159",
+      "code": "29-54-H/01"
+    },
+    {
+      "id": 50,
+      "position": 50,
+      "legacyId": "50",
+      "title": "\u0158ezn\u00edk - uzen\u00e1\u0159",
+      "code": "29-56-H/01"
+    },
+    {
+      "id": 51,
+      "position": 51,
+      "legacyId": "51",
+      "title": "Potravin\u00e1\u0159stv\u00ed a potravin\u00e1\u0159sk\u00e1 chemie",
+      "code": "29-xx-E/xx"
+    },
+    {
+      "id": 52,
+      "position": 52,
+      "legacyId": "52",
+      "title": "Potravin\u00e1\u0159stv\u00ed a potravin\u00e1\u0159sk\u00e1 chemie",
+      "code": "29-xx-H/xx"
+    },
+    {
+      "id": 53,
+      "position": 53,
+      "legacyId": "53",
+      "title": "Potravin\u00e1\u0159stv\u00ed a potravin\u00e1\u0159sk\u00e1 chemie",
+      "code": "29-xx-M/xx"
+    },
+    {
+      "id": 54,
+      "position": 54,
+      "legacyId": "54",
+      "title": "Textilnictv\u00ed",
+      "code": "31-41-M/01"
+    },
+    {
+      "id": 55,
+      "position": 55,
+      "legacyId": "55",
+      "title": "Od\u011bvn\u00ed technik",
+      "code": "31-43-L/01"
+    },
+    {
+      "id": 56,
+      "position": 56,
+      "legacyId": "56",
+      "title": "Od\u011bvnictv\u00ed",
+      "code": "31-43-M/01"
+    },
+    {
+      "id": 57,
+      "position": 57,
+      "legacyId": "57",
+      "title": "V\u00fdrobce textili\u00ed",
+      "code": "31-57-H/01"
+    },
+    {
+      "id": 58,
+      "position": 58,
+      "legacyId": "58",
+      "title": "Krej\u010d\u00ed",
+      "code": "31-58-H/01"
+    },
+    {
+      "id": 59,
+      "position": 59,
+      "legacyId": "59",
+      "title": "\u0160it\u00ed od\u011bv\u016f",
+      "code": "31-59-E/01"
+    },
+    {
+      "id": 60,
+      "position": 60,
+      "legacyId": "60",
+      "title": "\u0160it\u00ed pr\u00e1dla",
+      "code": "31-59-E/02"
+    },
+    {
+      "id": 61,
+      "position": 61,
+      "legacyId": "61",
+      "title": "Textiln\u00ed v\u00fdroba a od\u011bvnictv\u00ed",
+      "code": "31-xx-E/xx"
+    },
+    {
+      "id": 62,
+      "position": 62,
+      "legacyId": "62",
+      "title": "Textiln\u00ed v\u00fdroba a od\u011bvnictv\u00ed",
+      "code": "31-xx-H/xx"
+    },
+    {
+      "id": 63,
+      "position": 63,
+      "legacyId": "63",
+      "title": "Textiln\u00ed v\u00fdroba a od\u011bvnictv\u00ed",
+      "code": "31-xx-L/xx"
+    },
+    {
+      "id": 64,
+      "position": 64,
+      "legacyId": "64",
+      "title": "Textiln\u00ed v\u00fdroba a od\u011bvnictv\u00ed",
+      "code": "31-xx-M/xx"
+    },
+    {
+      "id": 65,
+      "position": 65,
+      "legacyId": "65",
+      "title": "Zpracov\u00e1n\u00ed usn\u00ed, plast\u016f a pry\u017ee",
+      "code": "32-41-M/01"
+    },
+    {
+      "id": 66,
+      "position": 66,
+      "legacyId": "66",
+      "title": "Ko\u017eed\u011bln\u00e1 a obuvnick\u00e1 v\u00fdroba a zpracov\u00e1n\u00ed plast\u016f",
+      "code": "32-xx-M/xx"
+    },
+    {
+      "id": 67,
+      "position": 67,
+      "legacyId": "67",
+      "title": "N\u00e1bytk\u00e1\u0159sk\u00e1 a d\u0159eva\u0159sk\u00e1 v\u00fdroba",
+      "code": "33-42-M/01"
+    },
+    {
+      "id": 68,
+      "position": 68,
+      "legacyId": "68",
+      "title": "V\u00fdroba hudebn\u00edch n\u00e1stroj\u016f",
+      "code": "33-43-M/01"
+    },
+    {
+      "id": 69,
+      "position": 69,
+      "legacyId": "69",
+      "title": "Mechanik hudebn\u00edch n\u00e1stroj\u016f",
+      "code": "33-54-H/01"
+    },
+    {
+      "id": 70,
+      "position": 70,
+      "legacyId": "70",
+      "title": "Mechanik dech. a bic\u00edch. hudebn\u00edch n\u00e1stroj\u016f",
+      "code": "33-54-H/02"
+    },
+    {
+      "id": 71,
+      "position": 71,
+      "legacyId": "71",
+      "title": "Truhl\u00e1\u0159",
+      "code": "33-56-H/01"
+    },
+    {
+      "id": 72,
+      "position": 72,
+      "legacyId": "72",
+      "title": "\u010caloun\u00edk",
+      "code": "33-59-H/01"
+    },
+    {
+      "id": 73,
+      "position": 73,
+      "legacyId": "73",
+      "title": "Zpracov\u00e1n\u00ed d\u0159eva a v\u00fdroba hudebn\u00edch n\u00e1stroj\u016f",
+      "code": "33-xx-H/xx"
+    },
+    {
+      "id": 74,
+      "position": 74,
+      "legacyId": "74",
+      "title": "Zpracov\u00e1n\u00ed d\u0159eva a v\u00fdroba hudebn\u00edch n\u00e1stroj\u016f",
+      "code": "33-xx-M/xx"
+    },
+    {
+      "id": 75,
+      "position": 75,
+      "legacyId": "75",
+      "title": "Tiska\u0159 na polygrafick\u00fdch stroj\u00edch",
+      "code": "34-52-H/01"
+    },
+    {
+      "id": 76,
+      "position": 76,
+      "legacyId": "76",
+      "title": "Tiska\u0159 na polygrafick\u00fdch stroj\u00edch",
+      "code": "34-52-L/01"
+    },
+    {
+      "id": 77,
+      "position": 77,
+      "legacyId": "77",
+      "title": "Reproduk\u010dn\u00ed grafik pro m\u00e9dia",
+      "code": "34-53-L/01"
+    },
+    {
+      "id": 78,
+      "position": 78,
+      "legacyId": "78",
+      "title": "Kniha\u0159",
+      "code": "34-57-H/01"
+    },
+    {
+      "id": 79,
+      "position": 79,
+      "legacyId": "79",
+      "title": "Technik dokon\u010dovac\u00edho zpracov\u00e1n\u00ed tiskovin",
+      "code": "34-57-L/01"
+    },
+    {
+      "id": 80,
+      "position": 80,
+      "legacyId": "80",
+      "title": "Polygrafie, zpracov\u00e1n\u00ed pap\u00edru, filmu a fotografie",
+      "code": "34-xx-H/xx"
+    },
+    {
+      "id": 81,
+      "position": 81,
+      "legacyId": "81",
+      "title": "Polygrafie, zpracov\u00e1n\u00ed pap\u00edru, filmu a fotografie",
+      "code": "34-xx-L/xx"
+    },
+    {
+      "id": 82,
+      "position": 82,
+      "legacyId": "82",
+      "title": "Technick\u00e1 za\u0159\u00edzen\u00ed budov",
+      "code": "36-45-M/01"
+    },
+    {
+      "id": 83,
+      "position": 83,
+      "legacyId": "83",
+      "title": "Stavebnictv\u00ed",
+      "code": "36-47-M/01"
+    },
+    {
+      "id": 84,
+      "position": 84,
+      "legacyId": "84",
+      "title": "Instalat\u00e9r",
+      "code": "36-52-H/01"
+    },
+    {
+      "id": 85,
+      "position": 85,
+      "legacyId": "85",
+      "title": "Mechanik plynov\u00fdch za\u0159\u00edzen\u00ed",
+      "code": "36-52-H/02"
+    },
+    {
+      "id": 86,
+      "position": 86,
+      "legacyId": "86",
+      "title": "Kamen\u00edk",
+      "code": "36-54-H/01"
+    },
+    {
+      "id": 87,
+      "position": 87,
+      "legacyId": "87",
+      "title": "Komin\u00edk",
+      "code": "36-56-H/01"
+    },
+    {
+      "id": 88,
+      "position": 88,
+      "legacyId": "88",
+      "title": "Podlah\u00e1\u0159",
+      "code": "36-59-H/01"
+    },
+    {
+      "id": 89,
+      "position": 89,
+      "legacyId": "89",
+      "title": "Sklen\u00e1\u0159",
+      "code": "36-62-H/01"
+    },
+    {
+      "id": 90,
+      "position": 90,
+      "legacyId": "90",
+      "title": "Tesa\u0159",
+      "code": "36-64-H/01"
+    },
+    {
+      "id": 91,
+      "position": 91,
+      "legacyId": "91",
+      "title": "Mont\u00e9r such\u00fdch staveb",
+      "code": "36-66-H/01"
+    },
+    {
+      "id": 92,
+      "position": 92,
+      "legacyId": "92",
+      "title": "Zedn\u00edk",
+      "code": "36-67-H/01"
+    },
+    {
+      "id": 93,
+      "position": 93,
+      "legacyId": "93",
+      "title": "Pokr\u00fdva\u010d",
+      "code": "36-69-H/01"
+    },
+    {
+      "id": 94,
+      "position": 94,
+      "legacyId": "94",
+      "title": "Stavebnictv\u00ed, geod\u00e9zie a kartografie",
+      "code": "36-xx-H/xx"
+    },
+    {
+      "id": 95,
+      "position": 95,
+      "legacyId": "95",
+      "title": "Stavebnictv\u00ed, geod\u00e9zie a kartografie",
+      "code": "36-xx-M/xx"
+    },
+    {
+      "id": 96,
+      "position": 96,
+      "legacyId": "96",
+      "title": "Provoz a ekonomika dopravy",
+      "code": "37-41-M/01"
+    },
+    {
+      "id": 97,
+      "position": 97,
+      "legacyId": "97",
+      "title": "Logistick\u00e9 a finan\u010dn\u00ed slu\u017eby",
+      "code": "37-42-M/01"
+    },
+    {
+      "id": 98,
+      "position": 98,
+      "legacyId": "98",
+      "title": "Manipulant po\u0161tovn\u00edho provozu a p\u0159epravy",
+      "code": "37-51-H/01"
+    },
+    {
+      "id": 99,
+      "position": 99,
+      "legacyId": "99",
+      "title": "\u017delezni\u010d\u00e1\u0159",
+      "code": "37-52-H/01"
+    },
+    {
+      "id": 100,
+      "position": 100,
+      "legacyId": "100",
+      "title": "Doprava a spoje",
+      "code": "37-xx-H/xx"
+    },
+    {
+      "id": 101,
+      "position": 101,
+      "legacyId": "101",
+      "title": "Doprava a spoje",
+      "code": "37-xx-M/xx"
+    },
+    {
+      "id": 102,
+      "position": 102,
+      "legacyId": "102",
+      "title": "Mal\u00ed\u0159 a lak\u00fdrn\u00edk",
+      "code": "39-41-H/01"
+    },
+    {
+      "id": 103,
+      "position": 103,
+      "legacyId": "103",
+      "title": "Autotronik",
+      "code": "39-41-L/01"
+    },
+    {
+      "id": 104,
+      "position": 104,
+      "legacyId": "104",
+      "title": "Speci\u00e1ln\u00ed a interdisciplin\u00e1rn\u00ed obory",
+      "code": "39-xx-H/xx"
+    },
+    {
+      "id": 105,
+      "position": 105,
+      "legacyId": "105",
+      "title": "Speci\u00e1ln\u00ed a interdisciplin\u00e1rn\u00ed obory",
+      "code": "39-xx-L/xx"
+    },
+    {
+      "id": 106,
+      "position": 106,
+      "legacyId": "106",
+      "title": "Agropodnik\u00e1n\u00ed",
+      "code": "41-41-M/01"
+    },
+    {
+      "id": 107,
+      "position": 107,
+      "legacyId": "107",
+      "title": "Vinohradnictv\u00ed",
+      "code": "41-42-M/01"
+    },
+    {
+      "id": 108,
+      "position": 108,
+      "legacyId": "108",
+      "title": "Ryb\u00e1\u0159stv\u00ed",
+      "code": "41-43-M/01"
+    },
+    {
+      "id": 109,
+      "position": 109,
+      "legacyId": "109",
+      "title": "Zahradnictv\u00ed",
+      "code": "41-44-M/01"
+    },
+    {
+      "id": 110,
+      "position": 110,
+      "legacyId": "110",
+      "title": "Mechanizace a slu\u017eby",
+      "code": "41-45-M/01"
+    },
+    {
+      "id": 111,
+      "position": 111,
+      "legacyId": "111",
+      "title": "Lesnictv\u00ed",
+      "code": "41-46-M/01"
+    },
+    {
+      "id": 112,
+      "position": 112,
+      "legacyId": "112",
+      "title": "Zem\u011bd\u011blec - farm\u00e1\u0159",
+      "code": "41-51-H/01"
+    },
+    {
+      "id": 113,
+      "position": 113,
+      "legacyId": "113",
+      "title": "V\u010dela\u0159",
+      "code": "41-51-H/02"
+    },
+    {
+      "id": 114,
+      "position": 114,
+      "legacyId": "114",
+      "title": "Zahradnick\u00e9 pr\u00e1ce",
+      "code": "41-52-E/01"
+    },
+    {
+      "id": 115,
+      "position": 115,
+      "legacyId": "115",
+      "title": "Zahradn\u00edk",
+      "code": "41-52-H/01"
+    },
+    {
+      "id": 116,
+      "position": 116,
+      "legacyId": "116",
+      "title": "Ryb\u00e1\u0159",
+      "code": "41-53-H/01"
+    },
+    {
+      "id": 117,
+      "position": 117,
+      "legacyId": "117",
+      "title": "Jezdec a chovatel kon\u00ed",
+      "code": "41-53-H/02"
+    },
+    {
+      "id": 118,
+      "position": 118,
+      "legacyId": "118",
+      "title": "Oprav\u00e1\u0159sk\u00e9 pr\u00e1ce",
+      "code": "41-55-E/01"
+    },
+    {
+      "id": 119,
+      "position": 119,
+      "legacyId": "119",
+      "title": "Oprav\u00e1\u0159 zem\u011bd\u011blsk\u00fdch stroj\u016f",
+      "code": "41-55-H/01"
+    },
+    {
+      "id": 120,
+      "position": 120,
+      "legacyId": "120",
+      "title": "Lesn\u00ed mechaniz\u00e1tor",
+      "code": "41-56-H/01"
+    },
+    {
+      "id": 121,
+      "position": 121,
+      "legacyId": "121",
+      "title": "Zpracovatel d\u0159eva",
+      "code": "41-57-H/01"
+    },
+    {
+      "id": 122,
+      "position": 122,
+      "legacyId": "122",
+      "title": "Zem\u011bd\u011blstv\u00ed a lesnictv\u00ed",
+      "code": "41-xx-E/xx"
+    },
+    {
+      "id": 123,
+      "position": 123,
+      "legacyId": "123",
+      "title": "Zem\u011bd\u011blstv\u00ed a lesnictv\u00ed",
+      "code": "41-xx-H/xx"
+    },
+    {
+      "id": 124,
+      "position": 124,
+      "legacyId": "124",
+      "title": "Zem\u011bd\u011blstv\u00ed a lesnictv\u00ed",
+      "code": "41-xx-M/xx"
+    },
+    {
+      "id": 125,
+      "position": 125,
+      "legacyId": "125",
+      "title": "Veterin\u00e1\u0159stv\u00ed",
+      "code": "43-41-M/01"
+    },
+    {
+      "id": 126,
+      "position": 126,
+      "legacyId": "126",
+      "title": "Veterin\u00e1\u0159stv\u00ed a veterin\u00e1rn\u00ed prevence",
+      "code": "43-xx-M/xx"
+    },
+    {
+      "id": 127,
+      "position": 127,
+      "legacyId": "127",
+      "title": "O\u0161et\u0159ovatel",
+      "code": "53-41-H/01"
+    },
+    {
+      "id": 128,
+      "position": 128,
+      "legacyId": "128",
+      "title": "Zdravotnick\u00fd asistent",
+      "code": "53-41-M/01"
+    },
+    {
+      "id": 129,
+      "position": 129,
+      "legacyId": "129",
+      "title": "Asistent zubn\u00edho technika",
+      "code": "53-44-M/03"
+    },
+    {
+      "id": 130,
+      "position": 130,
+      "legacyId": "130",
+      "title": "Zdravotnictv\u00ed",
+      "code": "53-xx-H/xx"
+    },
+    {
+      "id": 131,
+      "position": 131,
+      "legacyId": "131",
+      "title": "Zdravotnictv\u00ed",
+      "code": "53-xx-M/xx"
+    },
+    {
+      "id": 132,
+      "position": 132,
+      "legacyId": "132",
+      "title": "Ekonomika a podnik\u00e1n\u00ed",
+      "code": "63-41-M/01"
+    },
+    {
+      "id": 133,
+      "position": 133,
+      "legacyId": "133",
+      "title": "Obchodn\u00ed akademie",
+      "code": "63-41-M/02"
+    },
+    {
+      "id": 134,
+      "position": 134,
+      "legacyId": "134",
+      "title": "Ekonomika a administrativa",
+      "code": "63-xx-M/xx"
+    },
+    {
+      "id": 135,
+      "position": 135,
+      "legacyId": "135",
+      "title": "Gastronomie",
+      "code": "65-41-L/01"
+    },
+    {
+      "id": 136,
+      "position": 136,
+      "legacyId": "136",
+      "title": "Gastronomie",
+      "code": "65-41-L/51"
+    },
+    {
+      "id": 137,
+      "position": 137,
+      "legacyId": "137",
+      "title": "Hotelnictv\u00ed",
+      "code": "65-42-M/01"
+    },
+    {
+      "id": 138,
+      "position": 138,
+      "legacyId": "138",
+      "title": "Cestovn\u00ed ruch",
+      "code": "65-42-M/02"
+    },
+    {
+      "id": 139,
+      "position": 139,
+      "legacyId": "139",
+      "title": "Stravovac\u00ed a ubytovac\u00ed slu\u017eby",
+      "code": "65-51-E/01"
+    },
+    {
+      "id": 140,
+      "position": 140,
+      "legacyId": "140",
+      "title": "Pr\u00e1ce ve stravov\u00e1n\u00ed",
+      "code": "65-51-E/02"
+    },
+    {
+      "id": 141,
+      "position": 141,
+      "legacyId": "141",
+      "title": "Kucha\u0159 - \u010d\u00ed\u0161n\u00edk",
+      "code": "65-51-H/01"
+    },
+    {
+      "id": 142,
+      "position": 142,
+      "legacyId": "142",
+      "title": "Gastronomie, hotelnictv\u00ed a turismus",
+      "code": "65-xx-E/xx"
+    },
+    {
+      "id": 143,
+      "position": 143,
+      "legacyId": "143",
+      "title": "Gastronomie, hotelnictv\u00ed a turismus",
+      "code": "65-xx-H/xx"
+    },
+    {
+      "id": 144,
+      "position": 144,
+      "legacyId": "144",
+      "title": "Gastronomie, hotelnictv\u00ed a turismus",
+      "code": "65-xx-L/xx"
+    },
+    {
+      "id": 145,
+      "position": 145,
+      "legacyId": "145",
+      "title": "Gastronomie, hotelnictv\u00ed a turismus",
+      "code": "65-xx-M/xx"
+    },
+    {
+      "id": 146,
+      "position": 146,
+      "legacyId": "146",
+      "title": "Obchodn\u00edk",
+      "code": "66-41-L/01"
+    },
+    {
+      "id": 147,
+      "position": 147,
+      "legacyId": "147",
+      "title": "Prodava\u010dsk\u00e9 pr\u00e1ce",
+      "code": "66-51-E/01"
+    },
+    {
+      "id": 148,
+      "position": 148,
+      "legacyId": "148",
+      "title": "Prodava\u010d",
+      "code": "66-51-H/01"
+    },
+    {
+      "id": 149,
+      "position": 149,
+      "legacyId": "149",
+      "title": "Aran\u017e\u00e9r",
+      "code": "66-52-H/01"
+    },
+    {
+      "id": 150,
+      "position": 150,
+      "legacyId": "150",
+      "title": "Oper\u00e1tor skladov\u00e1n\u00ed",
+      "code": "66-53-H/01"
+    },
+    {
+      "id": 151,
+      "position": 151,
+      "legacyId": "151",
+      "title": "Obchod",
+      "code": "66-xx-E/xx"
+    },
+    {
+      "id": 152,
+      "position": 152,
+      "legacyId": "152",
+      "title": "Obchod",
+      "code": "66-xx-H/xx"
+    },
+    {
+      "id": 153,
+      "position": 153,
+      "legacyId": "153",
+      "title": "Obchod",
+      "code": "66-xx-L/xx"
+    },
+    {
+      "id": 154,
+      "position": 154,
+      "legacyId": "154",
+      "title": "Bezpe\u010dnostn\u011b pr\u00e1vn\u00ed \u010dinnost",
+      "code": "68-42-M/01"
+    },
+    {
+      "id": 155,
+      "position": 155,
+      "legacyId": "155",
+      "title": "Ve\u0159ejnospr\u00e1vn\u00ed \u010dinnost",
+      "code": "68-43-M/01"
+    },
+    {
+      "id": 156,
+      "position": 156,
+      "legacyId": "156",
+      "title": "Pr\u00e1vo, pr\u00e1vn\u00ed a ve\u0159ejnospr\u00e1vn\u00ed \u010dinnost",
+      "code": "68-xx-M/xx"
+    },
+    {
+      "id": 157,
+      "position": 157,
+      "legacyId": "157",
+      "title": "Kosmetick\u00e9 slu\u017eby",
+      "code": "69-41-L/01"
+    },
+    {
+      "id": 158,
+      "position": 158,
+      "legacyId": "158",
+      "title": "Mas\u00e9r sportovn\u00ed a rekondi\u010dn\u00ed",
+      "code": "69-41-L/02"
+    },
+    {
+      "id": 159,
+      "position": 159,
+      "legacyId": "159",
+      "title": "Kade\u0159n\u00edk",
+      "code": "69-51-H/01"
+    },
+    {
+      "id": 160,
+      "position": 160,
+      "legacyId": "160",
+      "title": "Rekondi\u010dn\u00ed a sportovn\u00ed mas\u00e9r",
+      "code": "69-53-H/01"
+    },
+    {
+      "id": 161,
+      "position": 161,
+      "legacyId": "161",
+      "title": "Provozn\u00ed slu\u017eby",
+      "code": "69-54-E/01"
+    },
+    {
+      "id": 162,
+      "position": 162,
+      "legacyId": "162",
+      "title": "Osobn\u00ed a provozn\u00ed slu\u017eby",
+      "code": "69-xx-E/xx"
+    },
+    {
+      "id": 163,
+      "position": 163,
+      "legacyId": "163",
+      "title": "Osobn\u00ed a provozn\u00ed slu\u017eby",
+      "code": "69-xx-H/xx"
+    },
+    {
+      "id": 164,
+      "position": 164,
+      "legacyId": "164",
+      "title": "Osobn\u00ed a provozn\u00ed slu\u017eby",
+      "code": "69-xx-L/xx"
+    },
+    {
+      "id": 165,
+      "position": 165,
+      "legacyId": "165",
+      "title": "Informa\u010dn\u00ed slu\u017eby",
+      "code": "72-41-M/01"
+    },
+    {
+      "id": 166,
+      "position": 166,
+      "legacyId": "166",
+      "title": "Publicistika, knihovnictv\u00ed a informatika",
+      "code": "72-xx-M/xx"
+    },
+    {
+      "id": 167,
+      "position": 167,
+      "legacyId": "167",
+      "title": "Technick\u00e9 lyceum",
+      "code": "78-42-M/01"
+    },
+    {
+      "id": 168,
+      "position": 168,
+      "legacyId": "168",
+      "title": "Ekonomick\u00e9 lyceum",
+      "code": "78-42-M/02"
+    },
+    {
+      "id": 169,
+      "position": 169,
+      "legacyId": "169",
+      "title": "Obecn\u011b odborn\u00e1 p\u0159\u00edprava",
+      "code": "78-xx-M/xx"
+    },
+    {
+      "id": 170,
+      "position": 170,
+      "legacyId": "170",
+      "title": "U\u017eit\u00e1 fotografie a m\u00e9dia",
+      "code": "82-41-M/02"
+    },
+    {
+      "id": 171,
+      "position": 171,
+      "legacyId": "171",
+      "title": "Pr\u016fmyslov\u00fd design",
+      "code": "82-41-M/04"
+    },
+    {
+      "id": 172,
+      "position": 172,
+      "legacyId": "172",
+      "title": "Grafick\u00fd design",
+      "code": "82-41-M/05"
+    },
+    {
+      "id": 173,
+      "position": 173,
+      "legacyId": "173",
+      "title": "V\u00fdtvarn\u00e9 zpracov\u00e1n\u00ed kov\u016f a drah\u00fdch kamen\u016f",
+      "code": "82-41-M/06"
+    },
+    {
+      "id": 174,
+      "position": 174,
+      "legacyId": "174",
+      "title": "Model\u00e1\u0159stv\u00ed a n\u00e1vrh\u00e1\u0159stv\u00ed od\u011bv\u016f",
+      "code": "82-41-M/07"
+    },
+    {
+      "id": 175,
+      "position": 175,
+      "legacyId": "175",
+      "title": "Model\u00e1\u0159stv\u00ed a n\u00e1vrh\u00e1\u0159stv\u00ed obuvi a m\u00f3dn\u00edch dopl\u0148k\u016f",
+      "code": "82-41-M/09"
+    },
+    {
+      "id": 176,
+      "position": 176,
+      "legacyId": "176",
+      "title": "\u0158ezb\u00e1\u0159stv\u00ed",
+      "code": "82-41-M/10"
+    },
+    {
+      "id": 177,
+      "position": 177,
+      "legacyId": "177",
+      "title": "Design interi\u00e9ru",
+      "code": "82-41-M/11"
+    },
+    {
+      "id": 178,
+      "position": 178,
+      "legacyId": "178",
+      "title": "V\u00fdtvarn\u00e9 zpracov\u00e1n\u00ed keramiky a porcel\u00e1nu",
+      "code": "82-41-M/12"
+    },
+    {
+      "id": 179,
+      "position": 179,
+      "legacyId": "179",
+      "title": "V\u00fdtvarn\u00e9 zpracov\u00e1n\u00ed skla a sv\u011bteln\u00fdch objekt\u016f",
+      "code": "82-41-M/13"
+    },
+    {
+      "id": 180,
+      "position": 180,
+      "legacyId": "180",
+      "title": "Textiln\u00ed v\u00fdtvarnictv\u00ed",
+      "code": "82-41-M/14"
+    },
+    {
+      "id": 181,
+      "position": 181,
+      "legacyId": "181",
+      "title": "Tvorba a vzorov\u00e1n\u00ed bi\u017euterie",
+      "code": "82-41-M/15"
+    },
+    {
+      "id": 182,
+      "position": 182,
+      "legacyId": "182",
+      "title": "Multimedi\u00e1ln\u00ed tvorba",
+      "code": "82-41-M/17"
+    },
+    {
+      "id": 183,
+      "position": 183,
+      "legacyId": "183",
+      "title": "Staro\u017eitn\u00edk",
+      "code": "82-48-L/01"
+    },
+    {
+      "id": 184,
+      "position": 184,
+      "legacyId": "184",
+      "title": "Um\u011bleck\u00fd truhl\u00e1\u0159 a \u0159ezb\u00e1\u0159",
+      "code": "82-51-H/02"
+    },
+    {
+      "id": 185,
+      "position": 185,
+      "legacyId": "185",
+      "title": "Zlatn\u00edk a klenotn\u00edk",
+      "code": "82-51-H/03"
+    },
+    {
+      "id": 186,
+      "position": 186,
+      "legacyId": "186",
+      "title": "Um\u011bleck\u00fd keramik",
+      "code": "82-51-H/04"
+    },
+    {
+      "id": 187,
+      "position": 187,
+      "legacyId": "187",
+      "title": "Vl\u00e1senk\u00e1\u0159 a mask\u00e9r",
+      "code": "82-51-H/05"
+    },
+    {
+      "id": 188,
+      "position": 188,
+      "legacyId": "188",
+      "title": "Um\u011bleck\u00fd \u0161tukat\u00e9r",
+      "code": "82-51-H/06"
+    },
+    {
+      "id": 189,
+      "position": 189,
+      "legacyId": "189",
+      "title": "Um\u011bleck\u00fd pozlacova\u010d",
+      "code": "82-51-H/07"
+    },
+    {
+      "id": 190,
+      "position": 190,
+      "legacyId": "190",
+      "title": "Um\u011bleck\u00fd sklen\u00e1\u0159",
+      "code": "82-51-H/08"
+    },
+    {
+      "id": 191,
+      "position": 191,
+      "legacyId": "191",
+      "title": "Um\u011blecko\u0159emesln\u00e9 zpracov\u00e1n\u00ed d\u0159eva",
+      "code": "82-51-L/02"
+    },
+    {
+      "id": 192,
+      "position": 192,
+      "legacyId": "192",
+      "title": "Um\u011bn\u00ed a u\u017eit\u00e9 um\u011bn\u00ed",
+      "code": "82-xx-H/xx"
+    },
+    {
+      "id": 193,
+      "position": 193,
+      "legacyId": "193",
+      "title": "Um\u011bn\u00ed a u\u017eit\u00e9 um\u011bn\u00ed",
+      "code": "82-xx-L/xx"
+    },
+    {
+      "id": 194,
+      "position": 194,
+      "legacyId": "194",
+      "title": "Um\u011bn\u00ed a u\u017eit\u00e9 um\u011bn\u00ed",
+      "code": "82-xx-M/xx"
+    },
+    {
+      "id": 195,
+      "position": 195,
+      "legacyId": "195",
+      "title": "St\u0159edn\u00ed vzd\u011bl\u00e1n\u00ed s v\u00fdu\u010dn\u00edm listem",
+      "code": "xx-xx-E/xx"
+    },
+    {
+      "id": 196,
+      "position": 196,
+      "legacyId": "196",
+      "title": "St\u0159edn\u00ed vzd\u011bl\u00e1n\u00ed s v\u00fdu\u010dn\u00edm listem",
+      "code": "xx-xx-H/xx"
+    },
+    {
+      "id": 197,
+      "position": 197,
+      "legacyId": "197",
+      "title": "St\u0159edn\u00ed vzd\u011bl\u00e1n\u00ed s vyu\u010den\u00edm i maturitn\u00ed zkou\u0161kou",
+      "code": "xx-xx-L/xx"
+    },
+    { "id": 198, "position": null, "legacyId": "198", "title": "", "code": "" },
+    { "id": 199, "position": null, "legacyId": "199", "title": "", "code": "" },
+    {
+      "id": 200,
+      "position": 200,
+      "legacyId": "200",
+      "title": "St\u0159edn\u00ed vzd\u011bl\u00e1n\u00ed s maturitn\u00ed zkou\u0161kou (bez vyu\u010den\u00ed)",
+      "code": "xx-xx-M/xx"
+    },
+    {
+      "id": 201,
+      "position": 201,
+      "legacyId": "201",
+      "title": "Pr\u016fmyslov\u00e1 ekologie",
+      "code": "16-02-M/01"
+    },
+    {
+      "id": 202,
+      "position": 202,
+      "legacyId": "202",
+      "title": "Geotechnika",
+      "code": "21-42-M/01"
+    },
+    {
+      "id": 203,
+      "position": 203,
+      "legacyId": "203",
+      "title": "Hutn\u00edk oper\u00e1tor",
+      "code": "21-43-L/01"
+    },
+    {
+      "id": 204,
+      "position": 204,
+      "legacyId": "204",
+      "title": "Hutnictv\u00ed",
+      "code": "21-43-M/01"
+    },
+    {
+      "id": 205,
+      "position": 205,
+      "legacyId": "205",
+      "title": "Technik modelov\u00fdch za\u0159\u00edzen\u00ed",
+      "code": "21-44-L/01"
+    },
+    {
+      "id": 206,
+      "position": 206,
+      "legacyId": "206",
+      "title": "Stroj\u00edrensk\u00e1 metalurgie",
+      "code": "21-44-M/01"
+    },
+    {
+      "id": 207,
+      "position": 207,
+      "legacyId": "207",
+      "title": "Mechanik stroj\u016f a za\u0159\u00edzen\u00ed",
+      "code": "23-44-L/01"
+    },
+    {
+      "id": 208,
+      "position": 208,
+      "legacyId": "208",
+      "title": "Mechanik se\u0159izova\u010d",
+      "code": "23-45-L/01"
+    },
+    {
+      "id": 209,
+      "position": 209,
+      "legacyId": "209",
+      "title": "Leteck\u00fd mechanik",
+      "code": "23-45-L/02"
+    },
+    {
+      "id": 210,
+      "position": 210,
+      "legacyId": "210",
+      "title": "Stroj\u00edrensk\u00e9 pr\u00e1ce",
+      "code": "23-51-E/01"
+    },
+    {
+      "id": 211,
+      "position": 211,
+      "legacyId": "211",
+      "title": "Optik",
+      "code": "23-62-L/01"
+    },
+    {
+      "id": 212,
+      "position": 212,
+      "legacyId": "212",
+      "title": "Lodn\u00edk",
+      "code": "23-65-H/02"
+    },
+    {
+      "id": 213,
+      "position": 213,
+      "legacyId": "213",
+      "title": "Pu\u0161ka\u0159",
+      "code": "23-69-H/01"
+    },
+    {
+      "id": 214,
+      "position": 214,
+      "legacyId": "214",
+      "title": "Technik - pu\u0161ka\u0159",
+      "code": "23-69-L/01"
+    },
+    {
+      "id": 215,
+      "position": 215,
+      "legacyId": "215",
+      "title": "Elektrotechnick\u00e9 a strojn\u011b mont\u00e1\u017en\u00ed pr\u00e1ce",
+      "code": "26-51-E/01"
+    },
+    {
+      "id": 216,
+      "position": 216,
+      "legacyId": "216",
+      "title": "Technologie celul\u00f3zy a pap\u00edru",
+      "code": "28-41-M/01"
+    },
+    {
+      "id": 217,
+      "position": 217,
+      "legacyId": "217",
+      "title": "Chemik oper\u00e1tor",
+      "code": "28-42-L/01"
+    },
+    {
+      "id": 218,
+      "position": 218,
+      "legacyId": "218",
+      "title": "Technologie silik\u00e1t\u016f",
+      "code": "28-46-M/01"
+    },
+    {
+      "id": 219,
+      "position": 219,
+      "legacyId": "219",
+      "title": "Chemick\u00e9 pr\u00e1ce",
+      "code": "28-52-E/01"
+    },
+    {
+      "id": 220,
+      "position": 220,
+      "legacyId": "220",
+      "title": "Keramick\u00e1 v\u00fdroba",
+      "code": "28-57-E/01"
+    },
+    {
+      "id": 221,
+      "position": 221,
+      "legacyId": "221",
+      "title": "Skl\u00e1\u0159sk\u00e1 v\u00fdroba",
+      "code": "28-58-E/01"
+    },
+    {
+      "id": 222,
+      "position": 222,
+      "legacyId": "222",
+      "title": "Bi\u017eutern\u00ed v\u00fdroba",
+      "code": "28-63-E/01"
+    },
+    {
+      "id": 223,
+      "position": 223,
+      "legacyId": "223",
+      "title": "Textiln\u00ed a od\u011bvn\u00ed v\u00fdroba",
+      "code": "31-57-E/01"
+    },
+    {
+      "id": 224,
+      "position": 224,
+      "legacyId": "224",
+      "title": "V\u00fdrobce pokr\u00fdvek hlavy",
+      "code": "31-62-H/01"
+    },
+    {
+      "id": 225,
+      "position": 225,
+      "legacyId": "225",
+      "title": "Ko\u017eed\u011bln\u00e1 v\u00fdroba",
+      "code": "32-41-E/01"
+    },
+    {
+      "id": 226,
+      "position": 226,
+      "legacyId": "226",
+      "title": "V\u00fdrobce ko\u017eed\u011bln\u00e9ho zbo\u017e\u00ed",
+      "code": "32-52-H/01"
+    },
+    {
+      "id": 227,
+      "position": 227,
+      "legacyId": "227",
+      "title": "V\u00fdrobce obuvi",
+      "code": "32-54-H/01"
+    },
+    {
+      "id": 228,
+      "position": 228,
+      "legacyId": "228",
+      "title": "Oper\u00e1tor d\u0159eva\u0159sk\u00e9 a n\u00e1bytk\u00e1\u0159sk\u00e9 v\u00fdroby",
+      "code": "33-41-L/01"
+    },
+    {
+      "id": 229,
+      "position": 229,
+      "legacyId": "229",
+      "title": "Truhl\u00e1\u0159sk\u00e1 a \u010dalounick\u00e1 v\u00fdroba",
+      "code": "33-56-E/01"
+    },
+    {
+      "id": 230,
+      "position": 230,
+      "legacyId": "230",
+      "title": "D\u0159eva\u0159sk\u00e1 v\u00fdroba",
+      "code": "33-57-E/01"
+    },
+    {
+      "id": 231,
+      "position": 231,
+      "legacyId": "231",
+      "title": "Zpracovatel p\u0159\u00edrodn\u00edch pletiv",
+      "code": "33-58-E/01"
+    },
+    {
+      "id": 232,
+      "position": 232,
+      "legacyId": "232",
+      "title": "Polygrafie",
+      "code": "34-41-M/01"
+    },
+    {
+      "id": 233,
+      "position": 233,
+      "legacyId": "233",
+      "title": "Obalov\u00e1 technika",
+      "code": "34-42-M/01"
+    },
+    {
+      "id": 234,
+      "position": 234,
+      "legacyId": "234",
+      "title": "Reproduk\u010dn\u00ed grafik",
+      "code": "34-53-H/01"
+    },
+    {
+      "id": 235,
+      "position": 235,
+      "legacyId": "235",
+      "title": "Fotograf",
+      "code": "34-56-L/01"
+    },
+    {
+      "id": 236,
+      "position": 236,
+      "legacyId": "236",
+      "title": "Kniha\u0159sk\u00e9 pr\u00e1ce",
+      "code": "34-57-E/01"
+    },
+    {
+      "id": 237,
+      "position": 237,
+      "legacyId": "237",
+      "title": "Stavebn\u00ed materi\u00e1ly",
+      "code": "36-43-M/01"
+    },
+    {
+      "id": 238,
+      "position": 238,
+      "legacyId": "238",
+      "title": "Geod\u00e9zie a katastr nemovitost\u00ed",
+      "code": "36-46-M/01"
+    },
+    {
+      "id": 239,
+      "position": 239,
+      "legacyId": "239",
+      "title": "Dla\u017edi\u010dsk\u00e9 pr\u00e1ce",
+      "code": "36-51-E/01"
+    },
+    {
+      "id": 240,
+      "position": 240,
+      "legacyId": "240",
+      "title": "Klemp\u00ed\u0159sk\u00e9 pr\u00e1ce ve stavebnictv\u00ed",
+      "code": "36-55-E/01"
+    },
+    {
+      "id": 241,
+      "position": 241,
+      "legacyId": "241",
+      "title": "Mal\u00ed\u0159sk\u00e9 a nat\u011bra\u010dsk\u00e9 pr\u00e1ce",
+      "code": "36-57-E/01"
+    },
+    {
+      "id": 242,
+      "position": 242,
+      "legacyId": "242",
+      "title": "Mont\u00e9r vodovod\u016f a kanalizac\u00ed a obsluha vod\u00e1rensk\u00fdch za\u0159\u00edzen\u00ed",
+      "code": "36-58-H/01"
+    },
+    {
+      "id": 243,
+      "position": 243,
+      "legacyId": "243",
+      "title": "Podlah\u00e1\u0159sk\u00e9 pr\u00e1ce",
+      "code": "36-59-E/01"
+    },
+    {
+      "id": 244,
+      "position": 244,
+      "legacyId": "244",
+      "title": "Sklen\u00e1\u0159sk\u00e9 pr\u00e1ce",
+      "code": "36-62-E/01"
+    },
+    {
+      "id": 245,
+      "position": 245,
+      "legacyId": "245",
+      "title": "\u0160tukat\u00e9r",
+      "code": "36-63-H/01"
+    },
+    {
+      "id": 246,
+      "position": 246,
+      "legacyId": "246",
+      "title": "Tesa\u0159sk\u00e9 pr\u00e1ce",
+      "code": "36-64-E/01"
+    },
+    {
+      "id": 247,
+      "position": 247,
+      "legacyId": "247",
+      "title": "Voda\u0159",
+      "code": "36-65-H/01"
+    },
+    {
+      "id": 248,
+      "position": 248,
+      "legacyId": "248",
+      "title": "Zednick\u00e9 pr\u00e1ce",
+      "code": "36-67-E/01"
+    },
+    {
+      "id": 249,
+      "position": 249,
+      "legacyId": "249",
+      "title": "Stavebn\u00ed pr\u00e1ce",
+      "code": "36-67-E/02"
+    },
+    {
+      "id": 250,
+      "position": 250,
+      "legacyId": "250",
+      "title": "Kamn\u00e1\u0159",
+      "code": "36-67-H/02"
+    },
+    {
+      "id": 251,
+      "position": 251,
+      "legacyId": "251",
+      "title": "Pokr\u00fdva\u010dsk\u00e9 pr\u00e1ce",
+      "code": "36-69-E/01"
+    },
+    {
+      "id": 252,
+      "position": 252,
+      "legacyId": "252",
+      "title": "Po\u017e\u00e1rn\u00ed ochrana",
+      "code": "39-08-M/01"
+    },
+    {
+      "id": 253,
+      "position": 253,
+      "legacyId": "253",
+      "title": "Mechanik instalat\u00e9rsk\u00fdch a elektrotechnick\u00fdch za\u0159\u00edzen\u00ed",
+      "code": "39-41-L/02"
+    },
+    {
+      "id": 254,
+      "position": 254,
+      "legacyId": "254",
+      "title": "Rostlinol\u00e9ka\u0159stv\u00ed",
+      "code": "41-04-M/01"
+    },
+    {
+      "id": 255,
+      "position": 255,
+      "legacyId": "255",
+      "title": "Chovatel cizokrajn\u00fdch zv\u00ed\u0159at",
+      "code": "41-43-L/01"
+    },
+    {
+      "id": 256,
+      "position": 256,
+      "legacyId": "256",
+      "title": "Chovatelstv\u00ed",
+      "code": "41-43-M/02"
+    },
+    {
+      "id": 257,
+      "position": 257,
+      "legacyId": "257",
+      "title": "Zem\u011bd\u011blsk\u00e9 pr\u00e1ce",
+      "code": "41-51-E/01"
+    },
+    {
+      "id": 258,
+      "position": 258,
+      "legacyId": "258",
+      "title": "Zahradnick\u00e1 v\u00fdroba",
+      "code": "41-52-E/02"
+    },
+    {
+      "id": 259,
+      "position": 259,
+      "legacyId": "259",
+      "title": "Podkov\u00e1\u0159 a zem\u011bd\u011blsk\u00fd kov\u00e1\u0159",
+      "code": "41-54-H/01"
+    },
+    {
+      "id": 260,
+      "position": 260,
+      "legacyId": "260",
+      "title": "Lesnick\u00e9 pr\u00e1ce",
+      "code": "41-56-E/01"
+    },
+    {
+      "id": 261,
+      "position": 261,
+      "legacyId": "261",
+      "title": "Oprav\u00e1\u0159 lesnick\u00fdch stroj\u016f",
+      "code": "41-56-H/02"
+    },
+    {
+      "id": 262,
+      "position": 262,
+      "legacyId": "262",
+      "title": "Zubn\u00ed instrument\u00e1\u0159ka",
+      "code": "53-41-J/01"
+    },
+    {
+      "id": 263,
+      "position": 263,
+      "legacyId": "263",
+      "title": "Nutri\u010dn\u00ed asistent",
+      "code": "53-41-M/02"
+    },
+    {
+      "id": 264,
+      "position": 264,
+      "legacyId": "264",
+      "title": "Laboratorn\u00ed asistent",
+      "code": "53-43-M/01"
+    },
+    {
+      "id": 265,
+      "position": 265,
+      "legacyId": "265",
+      "title": "Ortoticko - protetick\u00fd technik",
+      "code": "53-44-M/01"
+    },
+    {
+      "id": 266,
+      "position": 266,
+      "legacyId": "266",
+      "title": "Obchodn\u00ed \u0161kola",
+      "code": "63-51-J/01"
+    },
+    {
+      "id": 267,
+      "position": 267,
+      "legacyId": "267",
+      "title": "Knihkupeck\u00e9 a nakladatelsk\u00e9 \u010dinnosti",
+      "code": "66-43-M/01"
+    },
+    {
+      "id": 268,
+      "position": 268,
+      "legacyId": "268",
+      "title": "O\u010dn\u00ed optik",
+      "code": "69-42-M/01"
+    },
+    {
+      "id": 269,
+      "position": 269,
+      "legacyId": "269",
+      "title": "Pedagogika pro asistenty ve \u0161kolstv\u00ed",
+      "code": "75-31-J/01"
+    },
+    {
+      "id": 270,
+      "position": 270,
+      "legacyId": "270",
+      "title": "P\u0159ed\u0161koln\u00ed a mimo\u0161koln\u00ed pedagogika",
+      "code": "75-31-M/01"
+    },
+    {
+      "id": 271,
+      "position": 271,
+      "legacyId": "271",
+      "title": "Pedagogika pro asistenty ve \u0161kolstv\u00ed",
+      "code": "75-31-M/02"
+    },
+    {
+      "id": 272,
+      "position": 272,
+      "legacyId": "272",
+      "title": "Pe\u010dovatelsk\u00e9 slu\u017eby",
+      "code": "75-41-E/01"
+    },
+    {
+      "id": 273,
+      "position": 273,
+      "legacyId": "273",
+      "title": "Pe\u010dovatelsk\u00e9 slu\u017eby",
+      "code": "75-41-J/01"
+    },
+    {
+      "id": 274,
+      "position": 274,
+      "legacyId": "274",
+      "title": "Soci\u00e1ln\u00ed \u010dinnost",
+      "code": "75-41-M/01"
+    },
+    {
+      "id": 275,
+      "position": 275,
+      "legacyId": "275",
+      "title": "Pedagogick\u00e9 lyceum",
+      "code": "78-42-M/03"
+    },
+    {
+      "id": 276,
+      "position": 276,
+      "legacyId": "276",
+      "title": "Zdravotnick\u00e9 lyceum",
+      "code": "78-42-M/04"
+    },
+    {
+      "id": 277,
+      "position": 277,
+      "legacyId": "277",
+      "title": "P\u0159\u00edrodov\u011bdn\u00e9 lyceum",
+      "code": "78-42-M/05"
+    },
+    {
+      "id": 278,
+      "position": 278,
+      "legacyId": "278",
+      "title": "Kombinovan\u00e9 lyceum",
+      "code": "78-42-M/06"
+    },
+    {
+      "id": 279,
+      "position": 279,
+      "legacyId": "279",
+      "title": "U\u017eit\u00e1 malba",
+      "code": "82-41-M/01"
+    },
+    {
+      "id": 280,
+      "position": 280,
+      "legacyId": "280",
+      "title": "Sc\u00e9nick\u00e1 a v\u00fdstavn\u00ed tvorba",
+      "code": "82-41-M/03"
+    },
+    {
+      "id": 281,
+      "position": 281,
+      "legacyId": "281",
+      "title": "Tvorba hra\u010dek a hern\u00edch p\u0159edm\u011bt\u016f",
+      "code": "82-41-M/08"
+    },
+    {
+      "id": 282,
+      "position": 282,
+      "legacyId": "282",
+      "title": "Kamenosocha\u0159stv\u00ed",
+      "code": "82-41-M/16"
+    },
+    {
+      "id": 283,
+      "position": 283,
+      "legacyId": "283",
+      "title": "Um\u011blecko\u0159emesln\u00e1 stavba varhan",
+      "code": "82-41-M/18"
+    },
+    {
+      "id": 284,
+      "position": 284,
+      "legacyId": "284",
+      "title": "Konzerv\u00e1torstv\u00ed a restaur\u00e1torstv\u00ed",
+      "code": "82-42-M/01"
+    },
+    {
+      "id": 285,
+      "position": 285,
+      "legacyId": "285",
+      "title": "Lad\u011bn\u00ed klav\u00edr\u016f a kulturn\u00ed \u010dinnost",
+      "code": "82-44-J/01"
+    },
+    {
+      "id": 286,
+      "position": 286,
+      "legacyId": "286",
+      "title": "Lad\u011bn\u00ed klav\u00edr\u016f a p\u0159\u00edbuzn\u00fdch n\u00e1stroj\u016f",
+      "code": "82-44-M/02"
+    },
+    {
+      "id": 287,
+      "position": 287,
+      "legacyId": "287",
+      "title": "Um\u011bleck\u00fd kov\u00e1\u0159 a z\u00e1me\u010dn\u00edk, pas\u00ed\u0159",
+      "code": "82-51-H/01"
+    },
+    {
+      "id": 288,
+      "position": 288,
+      "legacyId": "288",
+      "title": "Um\u011bleck\u00fd rytec",
+      "code": "82-51-H/09"
+    },
+    {
+      "id": 289,
+      "position": 289,
+      "legacyId": "289",
+      "title": "Um\u011blecko\u0159emesln\u00e9 zpracov\u00e1n\u00ed kov\u016f",
+      "code": "82-51-L/01"
+    },
+    {
+      "id": 290,
+      "position": 290,
+      "legacyId": "290",
+      "title": "Um\u011blecko\u0159emesln\u00e9 zpracov\u00e1n\u00ed textilu",
+      "code": "82-51-L/03"
+    },
+    {
+      "id": 291,
+      "position": 291,
+      "legacyId": "291",
+      "title": "Um\u011blecko\u0159emesln\u00e9 zpracov\u00e1n\u00ed kamene a keramiky",
+      "code": "82-51-L/04"
+    },
+    {
+      "id": 292,
+      "position": 292,
+      "legacyId": "292",
+      "title": "Um\u011blecko\u0159emesln\u00e9 zpracov\u00e1n\u00ed skla",
+      "code": "82-51-L/05"
+    },
+    {
+      "id": 293,
+      "position": 293,
+      "legacyId": "293",
+      "title": "Um\u011blecko\u0159emesln\u00e1 stavba hudebn\u00edch n\u00e1stroj\u016f",
+      "code": "82-51-L/06"
+    },
+    {
+      "id": 294,
+      "position": 294,
+      "legacyId": "294",
+      "title": "Um\u011bleck\u00fd pozlacova\u010d",
+      "code": "82-51-H/07"
+    },
+    {
+      "id": 295,
+      "position": 295,
+      "legacyId": "295",
+      "title": "Technik plynov\u00fdch za\u0159\u00edzen\u00ed a tepeln\u00fdch soustav",
+      "code": "36-45-L/52"
+    },
+    {
+      "id": 296,
+      "position": 296,
+      "legacyId": "296",
+      "title": "Stavebn\u00ed provoz",
+      "code": "36-44-L/51"
+    },
+    {
+      "id": 297,
+      "position": null,
+      "legacyId": "297",
+      "title": "Optik",
+      "code": "23-62-L/01"
+    },
+    {
+      "id": 298,
+      "position": null,
+      "legacyId": "298",
+      "title": "Mechanik elektrotechnik",
+      "code": "26-41-L/01"
+    },
+    {
+      "id": 299,
+      "position": null,
+      "legacyId": "299",
+      "title": "Chemik oper\u00e1tor",
+      "code": "28-42-L/01"
+    },
+    {
+      "id": 300,
+      "position": null,
+      "legacyId": "300",
+      "title": "Od\u011bvn\u00ed technik",
+      "code": "31-43-L/01"
+    },
+    {
+      "id": 301,
+      "position": null,
+      "legacyId": "301",
+      "title": "Fotograf",
+      "code": "34-56-L/01"
+    },
+    {
+      "id": 302,
+      "position": null,
+      "legacyId": "302",
+      "title": "Obchodn\u00edk",
+      "code": "66-41-L/01"
+    },
+    {
+      "id": 303,
+      "position": null,
+      "legacyId": "303",
+      "title": "Mas\u00e9r sportovn\u00ed a rekondi\u010dn\u00ed",
+      "code": "69-41-L/02"
+    },
+    {
+      "id": 304,
+      "position": null,
+      "legacyId": "304",
+      "title": "Um\u011blecko\u0159emesln\u00e9 zpracov\u00e1n\u00ed kamene a keramiky",
+      "code": "82-51-L/04"
+    },
+    {
+      "id": 305,
+      "position": null,
+      "legacyId": "305",
+      "title": "Lad\u011bn\u00ed klav\u00edr\u016f a p\u0159\u00edbuzn\u00fdch n\u00e1stroj\u016f",
+      "code": "82-44-M/02"
+    },
+    {
+      "id": 306,
+      "position": null,
+      "legacyId": "306",
+      "title": "Provozn\u00ed technika",
+      "code": "23-43-L/51"
+    },
+    {
+      "id": 307,
+      "position": null,
+      "legacyId": "307",
+      "title": "Optik",
+      "code": "23-62-L/51"
+    },
+    {
+      "id": 308,
+      "position": null,
+      "legacyId": "308",
+      "title": "Strojn\u00edk silni\u010dn\u00edch stroj\u016f",
+      "code": "23-65-H/03"
+    },
+    {
+      "id": 309,
+      "position": null,
+      "legacyId": "309",
+      "title": "Mechanik elektrotechnik",
+      "code": "26-41-L/51"
+    },
+    {
+      "id": 310,
+      "position": null,
+      "legacyId": "310",
+      "title": "Telekomunikace",
+      "code": "26-45-L/51"
+    },
+    {
+      "id": 311,
+      "position": null,
+      "legacyId": "311",
+      "title": "Elektrik\u00e1\u0159 -silnoproud",
+      "code": "26-51-H/02"
+    },
+    {
+      "id": 312,
+      "position": null,
+      "legacyId": "312",
+      "title": "Chemik oper\u00e1tor",
+      "code": "28-42-L/51"
+    },
+    {
+      "id": 313,
+      "position": null,
+      "legacyId": "313",
+      "title": "Skl\u00e1\u0159sk\u00fd a keramick\u00fd pr\u016fmysl",
+      "code": "28-45-L/51"
+    },
+    {
+      "id": 314,
+      "position": null,
+      "legacyId": "314",
+      "title": "Technologie potravin",
+      "code": "29-41-L/51"
+    },
+    {
+      "id": 315,
+      "position": null,
+      "legacyId": "315",
+      "title": "Textilnictv\u00ed",
+      "code": "31-41-L/51"
+    },
+    {
+      "id": 316,
+      "position": null,
+      "legacyId": "316",
+      "title": "Od\u011bvnictv\u00ed",
+      "code": "31-43-L/51"
+    },
+    {
+      "id": 317,
+      "position": null,
+      "legacyId": "317",
+      "title": "N\u00e1bytk\u00e1\u0159sk\u00e1 a d\u0159eva\u0159sk\u00e1 v\u00fdroba",
+      "code": "33-42-L/51"
+    },
+    {
+      "id": 318,
+      "position": null,
+      "legacyId": "318",
+      "title": "Polygrafick\u00fd pr\u016fmysl",
+      "code": "34-41-L/51"
+    },
+    {
+      "id": 319,
+      "position": null,
+      "legacyId": "319",
+      "title": "Fotograf\u00a0",
+      "code": "34-56-L/51"
+    },
+    {
+      "id": 320,
+      "position": null,
+      "legacyId": "320",
+      "title": "Logistick\u00e9 a finan\u010dn\u00ed slu\u017eby",
+      "code": "37-42-L/51"
+    },
+    {
+      "id": 321,
+      "position": null,
+      "legacyId": "321",
+      "title": "Zahradnictv\u00ed",
+      "code": "41-44-L/51"
+    },
+    {
+      "id": 322,
+      "position": null,
+      "legacyId": "322",
+      "title": "Obchodn\u00edk\u00a0",
+      "code": "66-41-L/51"
+    },
+    {
+      "id": 323,
+      "position": null,
+      "legacyId": "323",
+      "title": "Bezpe\u010dnostn\u00ed slu\u017eby",
+      "code": "68-42-L/51"
+    },
+    {
+      "id": 324,
+      "position": null,
+      "legacyId": "324",
+      "title": "Mas\u00e9r sportovn\u00ed a rekondi\u010dn\u00ed\u00a0",
+      "code": "69-41-L/51"
+    },
+    {
+      "id": 325,
+      "position": null,
+      "legacyId": "325",
+      "title": "Soci\u00e1ln\u00ed \u010dinnost",
+      "code": "75-41-L/51"
+    },
+    {
+      "id": 326,
+      "position": null,
+      "legacyId": "326",
+      "title": "Gymn\u00e1zium",
+      "code": "79-41-K/41"
+    },
+    {
+      "id": 327,
+      "position": null,
+      "legacyId": "327",
+      "title": "Vojensk\u00e9 lyceum",
+      "code": "78-42-M/07"
+    },
+    {
+      "id": 328,
+      "position": null,
+      "legacyId": "328",
+      "title": "Hudba",
+      "code": "82-44-M/01"
+    },
+    {
+      "id": 329,
+      "position": null,
+      "legacyId": null,
+      "title": "Stavebnictv\u00ed",
+      "code": "36-41-N/xx"
+    },
+    {
+      "id": 330,
+      "position": null,
+      "legacyId": null,
+      "title": "Telekomunikace",
+      "code": "26-45-N/xx"
+    },
+    {
+      "id": 331,
+      "position": null,
+      "legacyId": null,
+      "title": "Elektrotechnika",
+      "code": "26-41-N/xx"
+    },
+    {
+      "id": 332,
+      "position": null,
+      "legacyId": null,
+      "title": "Stroj\u00edrenstv\u00ed",
+      "code": "23-41-N/xx"
+    },
+    {
+      "id": 333,
+      "position": null,
+      "legacyId": null,
+      "title": "Hutn\u00ed a sl\u00e9v\u00e1rensk\u00e1 v\u00fdroba",
+      "code": "21-31-N/xx"
+    },
+    {
+      "id": 334,
+      "position": null,
+      "legacyId": null,
+      "title": "Chemie silik\u00e1t\u016f",
+      "code": "28-32-N/xx"
+    },
+    {
+      "id": 335,
+      "position": null,
+      "legacyId": null,
+      "title": "Polygrafie",
+      "code": "34-31-N/xx"
+    },
+    {
+      "id": 336,
+      "position": null,
+      "legacyId": null,
+      "title": "Doprava",
+      "code": "37-41-N/xx"
+    },
+    {
+      "id": 337,
+      "position": null,
+      "legacyId": null,
+      "title": "Finan\u010dnictv\u00ed a bankovnictv\u00ed",
+      "code": "63-43-N/xx"
+    },
+    {
+      "id": 338,
+      "position": null,
+      "legacyId": null,
+      "title": "Multimedi\u00e1ln\u00ed tvorba",
+      "code": "82-43-N/xx"
+    },
+    {
+      "id": 339,
+      "position": null,
+      "legacyId": null,
+      "title": "Informa\u010dn\u00ed technologie",
+      "code": "26-47-N/xx"
+    },
+    {
+      "id": 340,
+      "position": null,
+      "legacyId": null,
+      "title": "Ekonomika a podnik\u00e1n\u00ed",
+      "code": "63-41-N/xx"
+    },
+    {
+      "id": 341,
+      "position": null,
+      "legacyId": null,
+      "title": "Veterin\u00e1\u0159stv\u00ed",
+      "code": "43-31-N/xx"
+    },
+    {
+      "id": 342,
+      "position": null,
+      "legacyId": null,
+      "title": "Textilnictv\u00ed",
+      "code": "31-41-N/xx"
+    },
+    {
+      "id": 343,
+      "position": null,
+      "legacyId": null,
+      "title": "Zpracov\u00e1n\u00ed usn\u00ed, plast\u016f a pry\u017ee",
+      "code": "32-31-N/xx"
+    },
+    {
+      "id": 344,
+      "position": null,
+      "legacyId": null,
+      "title": "Konzerv\u00e1torstv\u00ed a restaur\u00e1torstv\u00ed",
+      "code": "82-42-N/xx"
+    },
+    {
+      "id": 345,
+      "position": null,
+      "legacyId": null,
+      "title": "Potravin\u00e1\u0159stv\u00ed",
+      "code": "29-41-N/xx"
+    },
+    {
+      "id": 346,
+      "position": null,
+      "legacyId": null,
+      "title": "Gymn\u00e1zium",
+      "code": "79-41-K/xx"
+    },
+    {
+      "id": 347,
+      "position": null,
+      "legacyId": null,
+      "title": "Publicistika",
+      "code": "72-42-N/xx"
+    },
+    {
+      "id": 348,
+      "position": null,
+      "legacyId": null,
+      "title": "Bezpe\u010dnostn\u011b pr\u00e1vn\u00ed \u010dinnost",
+      "code": "68-42-N/xx"
+    },
+    {
+      "id": 349,
+      "position": null,
+      "legacyId": null,
+      "title": "Zahradnictv\u00ed",
+      "code": "41-44-N/xx"
+    },
+    {
+      "id": 350,
+      "position": null,
+      "legacyId": null,
+      "title": "Diplomovan\u00e1 v\u0161eobecn\u00e1 sestra",
+      "code": "53-41-N/1x"
+    },
+    {
+      "id": 351,
+      "position": null,
+      "legacyId": null,
+      "title": "Diplomovan\u00fd farmaceutick\u00fd asistent",
+      "code": "53-43-N/1x"
+    },
+    {
+      "id": 352,
+      "position": null,
+      "legacyId": null,
+      "title": "Diplomovan\u00fd zdravotn\u00ed laborant",
+      "code": "53-43-N/2x"
+    },
+    {
+      "id": 353,
+      "position": null,
+      "legacyId": null,
+      "title": "Diplomovan\u00e1 dent\u00e1ln\u00ed hygienistka",
+      "code": "53-41-N/3x"
+    },
+    {
+      "id": 354,
+      "position": null,
+      "legacyId": null,
+      "title": "Diplomovan\u00fd zdravotnick\u00fd z\u00e1chran\u00e1\u0159",
+      "code": "53-41-N/2x"
+    },
+    {
+      "id": 355,
+      "position": null,
+      "legacyId": null,
+      "title": "Diplomovan\u00fd zubn\u00ed technik",
+      "code": "53-44-N/1x"
+    },
+    {
+      "id": 356,
+      "position": null,
+      "legacyId": null,
+      "title": "Diagnostika, servis a opravy stroj\u016f a za\u0159\u00edzen\u00ed",
+      "code": "23-45-N/xx"
+    },
+    {
+      "id": 357,
+      "position": null,
+      "legacyId": null,
+      "title": "Ekologie a \u017eivotn\u00ed prost\u0159ed\u00ed",
+      "code": "16-01-N/xx"
+    },
+    {
+      "id": 358,
+      "position": null,
+      "legacyId": null,
+      "title": "Diplomovan\u00fd nutri\u010dn\u00ed terapeut",
+      "code": "53-41-N/4x"
+    },
+    {
+      "id": 359,
+      "position": null,
+      "legacyId": null,
+      "title": "Diplomovan\u00fd ortotik-protetik",
+      "code": "53-44-N/3x"
+    },
+    {
+      "id": 360,
+      "position": null,
+      "legacyId": null,
+      "title": "Zem\u011bd\u011blstv\u00ed",
+      "code": "41-31-N/xx"
+    },
+    {
+      "id": 361,
+      "position": null,
+      "legacyId": null,
+      "title": "Obecn\u011b pr\u00e1vn\u00ed \u010dinnost",
+      "code": "68-41-N/xx"
+    },
+    {
+      "id": 362,
+      "position": null,
+      "legacyId": null,
+      "title": "V\u00fdtvarn\u00e1 a um\u011blecko\u0159emesln\u00e1 tvorba",
+      "code": "82-41-N/xx"
+    },
+    {
+      "id": 363,
+      "position": null,
+      "legacyId": null,
+      "title": "Soci\u00e1ln\u00ed pr\u00e1ce a soci\u00e1ln\u00ed pedagogika",
+      "code": "75-32-N/xx"
+    },
+    {
+      "id": 364,
+      "position": null,
+      "legacyId": null,
+      "title": "St\u0159edn\u00ed vzd\u011bl\u00e1n\u00ed s maturitn\u00ed zkou\u0161kou v technick\u00e9m oboru",
+      "code": "2x-xx-M/xx"
+    },
+    {
+      "id": 365,
+      "position": null,
+      "legacyId": null,
+      "title": "P\u0159ed\u0161koln\u00ed a mimo\u0161koln\u00ed pedagogika",
+      "code": "75-31-N/xx"
+    },
+    {
+      "id": 366,
+      "position": null,
+      "legacyId": null,
+      "title": "St\u0159edn\u00ed vzd\u011bl\u00e1n\u00ed s maturitou ve skupin\u011b obor\u016f Polygrafie, zpracov\u00e1n\u00ed pap\u00edru, filmu a fotografie",
+      "code": "34-xx-M/xx"
+    },
+    {
+      "id": 367,
+      "position": null,
+      "legacyId": null,
+      "title": "St\u0159edn\u00ed vzd\u011bl\u00e1n\u00ed s vyu\u010den\u00edm ve skupin\u011b obor\u016f Ko\u017eed\u011bln\u00e1 a obuvnick\u00e1 v\u00fdroba a zpracov\u00e1n\u00ed plast\u016f",
+      "code": "32-xx-H/xx"
+    },
+    {
+      "id": 368,
+      "position": null,
+      "legacyId": null,
+      "title": "T\u011b\u017eba a zpracov\u00e1n\u00ed surovin",
+      "code": "21-42-N/xx"
+    },
+    {
+      "id": 369,
+      "position": null,
+      "legacyId": null,
+      "title": "Gymn\u00e1zium se sportovn\u00ed p\u0159\u00edpravou",
+      "code": "79-42-K/x1"
+    },
+    {
+      "id": 370,
+      "position": null,
+      "legacyId": null,
+      "title": "Informa\u010dn\u00ed slu\u017eby a knihovnictv\u00ed",
+      "code": "72-41-N/xx"
+    },
+    {
+      "id": 371,
+      "position": null,
+      "legacyId": null,
+      "title": "Tren\u00e9rstv\u00ed dostihov\u00fdch a sportovn\u00edch kon\u00ed",
+      "code": "41-43-L/52"
+    },
+    {
+      "id": 372,
+      "position": null,
+      "legacyId": null,
+      "title": "Hotelnictv\u00ed",
+      "code": "65-42-N/xx"
+    },
+    {
+      "id": 373,
+      "position": null,
+      "legacyId": null,
+      "title": "Person\u00e1ln\u00ed \u0159\u00edzen\u00ed",
+      "code": "63-42-N/xx"
+    },
+    {
+      "id": 374,
+      "position": null,
+      "legacyId": null,
+      "title": "Management",
+      "code": "64-31-N/xx"
+    },
+    {
+      "id": 375,
+      "position": null,
+      "legacyId": null,
+      "title": "Aplikovan\u00e1 chemie",
+      "code": "28-44-N/xx"
+    },
+    {
+      "id": 376,
+      "position": null,
+      "legacyId": null,
+      "title": "Zpracov\u00e1n\u00ed d\u0159eva",
+      "code": "33-31-N/xx"
+    },
+    {
+      "id": 377,
+      "position": null,
+      "legacyId": null,
+      "title": "Mas\u00e9r ve zdravotnictv\u00ed",
+      "code": "53-41-M/04"
+    },
+    {
+      "id": 378,
+      "position": null,
+      "legacyId": null,
+      "title": "Praktick\u00e1 sestra",
+      "code": "53-41-M/03"
+    },
+    {
+      "id": 379,
+      "position": null,
+      "legacyId": null,
+      "title": "Veterin\u00e1rn\u00ed sestra",
+      "code": "43-31-N/02"
+    },
+    {
+      "id": 380,
+      "position": null,
+      "legacyId": null,
+      "title": "Veterin\u00e1rn\u00ed asistent",
+      "code": "43-31-N/03"
+    }
+  ],
+  "count": 380,
+  "message": "OK",
+  "_links": []
+}

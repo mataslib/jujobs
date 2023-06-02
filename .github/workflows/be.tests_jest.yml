@@ -1,0 +1,38 @@
+name: be.run jest tests
+on: [push]
+jobs:
+  testsEnv-jest-tests:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v3
+        with:
+          cache: "npm"
+          cache-dependency-path: backend/package-lock.json
+
+      - name: Install backend deps
+        run: cd backend && npm ci
+
+      - name: Run jest tests with tests db
+        run: cd backend && npm run jestEnvTests
+        timeout-minutes: 15
+
+  prodEnv-jest-tests:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v3
+        with:
+          cache: "npm"
+          cache-dependency-path: backend/package-lock.json
+
+      - name: Install backend deps
+        run: cd backend && npm ci
+
+      - name: Run jest tests with production db
+        run: cd backend && npm run jestEnvProd
+        timeout-minutes: 15
